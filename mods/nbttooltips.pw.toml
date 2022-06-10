@@ -1,0 +1,13 @@
+name = "NBTtooltips"
+filename = "nbttooltips-0.1.1-1.18.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FZcOyh3v/versions/0.1.1/nbttooltips-0.1.1-1.18.x.jar"
+hash-format = "sha1"
+hash = "04fbc40eb4e602d48c9127b15c84fa0730bf91fc"
+
+[update]
+[update.modrinth]
+mod-id = "FZcOyh3v"
+version = "GXkNS6DI"

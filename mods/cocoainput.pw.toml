@@ -1,0 +1,13 @@
+name = "CocoaInput"
+filename = "CocoaInput-1.18-fabric-4.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "764ec1eeef425505eb26532c0b6eb279ce7e9403"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3554724
+project-id = 259700

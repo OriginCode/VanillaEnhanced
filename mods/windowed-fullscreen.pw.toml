@@ -1,0 +1,13 @@
+name = "Windowed Fullscreen"
+filename = "WindowedFullscreen-1.18-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a5da27803934eebe030660c2fe1218d71ee2ce1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3554709
+project-id = 495842
