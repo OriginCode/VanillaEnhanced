@@ -10,6 +10,16 @@ hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "139cd6adb184c22de6662545eee84a3acb5d1da2a606d31da977b23bbb330b21"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
 metafile = true
@@ -40,6 +50,11 @@ hash = "02cb28058720760640b94a79e552f8f7b842bbdcb2a6773a72bd789c0fc90fe1"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "14113b3954ee87c110c2512556fdbfe7a24316ef0398dee65d26ccf98772e704"
 metafile = true
@@ -55,8 +70,23 @@ hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "f726e4e0b1481c9fcebabb78da8c50382ee7add661b38f820fb5b6ab6f5c0d0b"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "e05bd2aa1eb88048b3cbe0845772453fab4e1b49f8ec19f192935d782f65939e"
 metafile = true
 
 [[files]]
@@ -100,6 +130,16 @@ hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.pw.toml"
+hash = "b38955363599622bb27fa008bb70b8c92d022af86c2adaa3be35fd7915763748"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
@@ -135,6 +175,16 @@ hash = "0298adb7762224c2e426d0b23ab1f26f04b170faabf165ec2c9d3c37efe2a03c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
@@ -167,11 +217,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
-metafile = true
-
-[[files]]
-file = "mods/item-scroller.pw.toml"
-hash = "e49eb18430be904bc1572ceaae8081f0979c6dc3191e953899c3ca0eb89c1b1b"
 metafile = true
 
 [[files]]
@@ -215,6 +260,11 @@ hash = "282276f77a1cee2a1383d5eb58d5cd90fd9ba1b536e655a40702d1e205a62ab6"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "5977b263e2694941ddc2e5279259089215fb72ea53ca1491a0e101c97896311a"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "fdda29af500ea4b6f6b4b04101caafdb651643dbad1ed8a22c89fd7718a07412"
 metafile = true
@@ -222,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "3da1c6f350407d59ac89fdaf76f28b53b96ab40267edd3f750d9f4c482327d5d"
 metafile = true
 
 [[files]]
@@ -237,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/no-fade.pw.toml"
 hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
 
 [[files]]
@@ -290,21 +350,11 @@ hash = "67d080816182c2fb307ec9027cc5dd3f12b68d7452b0075fafcabf1142e2dbb1"
 metafile = true
 
 [[files]]
-file = "mods/windowed-fullscreen.pw.toml"
-hash = "f5a9730a33d0d1249ab3add7530bded3618304d26287d65baae8fdb66788f7f7"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
-metafile = true
-
-[[files]]
-file = "mods/worldeditcui-fabric.pw.toml"
-hash = "d662f0e5aae916336830c1dfd1087b664e45676cafc02f7f2d892abf692ebf30"
-metafile = true
-
-[[files]]
 file = "mods/wthit.pw.toml"
-hash = "4b57d318cc62aff14ecc1da6f0c476b9627ee0b30ff148c9e0bf91f78549807b"
+hash = "0f51270c426ece64c5436d39cf1a17fba5a58de32e4de175929acdd21edc7bc6"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
