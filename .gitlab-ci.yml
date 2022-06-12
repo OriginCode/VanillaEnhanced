@@ -3,9 +3,8 @@ image: golang:latest
 stages:
   - prepare
   - build
-  - deploy
 
-format:
+prepare:
   stage: prepare
   script:
     - go install github.com/packwiz/packwiz@latest
