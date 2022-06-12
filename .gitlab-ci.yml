@@ -1,17 +1,12 @@
 image: golang:latest
 
 stages:
-  - prepare
   - build
-
-prepare:
-  stage: prepare
-  script:
-    - GOBIN=/usr/local/bin/ go install github.com/packwiz/packwiz@latest
 
 compile:
   stage: build
   script:
+    - GOBIN=/usr/local/bin/ go install github.com/packwiz/packwiz@latest
     - packwiz mr export
   artifacts:
     paths:
