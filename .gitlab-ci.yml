@@ -8,6 +8,8 @@ compile:
   script:
     - GOBIN=/usr/local/bin/ go install github.com/packwiz/packwiz@latest
     - packwiz mr export
+    - packwiz cf export
   artifacts:
     paths:
       - ./*.mrpack
+      - ./*.zip
