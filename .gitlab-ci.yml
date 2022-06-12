@@ -12,7 +12,7 @@ prepare:
 compile:
   stage: build
   script:
-    - packwiz mr export
+    - $HOME/.local/bin/packwiz mr export
   artifacts:
     paths:
       - ./*.mrpack
