@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "96373de9db37678049c954eb36c1ba43abd769bcd3a45a8b1626d5c9db5ab3de"
+hash = "75d696e7dd381b5fdaf3fc0360a09d1e43db79cfd82fc1cca814fa27c56d01c5"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "bd86bfc2dc17789f239be8547a155b3e6f2429df1cffa23b2bcc1952b3cd24a8"
+hash = "93249b83e94f6116aaf9a2422d7f5a549a4c0a917811a1942f2d588531a95314"
 metafile = true
 
 [[files]]
