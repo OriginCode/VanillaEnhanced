@@ -7,7 +7,7 @@ stages:
 prepare:
   stage: prepare
   script:
-    - go install github.com/packwiz/packwiz@latest
+    - GOBIN=$HOME/.local/bin go install github.com/packwiz/packwiz@latest
 
 compile:
   stage: build
