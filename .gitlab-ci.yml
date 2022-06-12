@@ -7,9 +7,10 @@ compile:
   stage: build
   script:
     - GOBIN=/usr/local/bin/ go install github.com/packwiz/packwiz@latest
+    - cd packwiz
     - packwiz mr export
     - packwiz cf export
   artifacts:
     paths:
-      - ./*.mrpack
-      - ./*.zip
+      - ./packwiz/*.mrpack
+      - ./packwiz/*.zip
