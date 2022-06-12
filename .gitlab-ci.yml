@@ -1,10 +1,6 @@
 image: golang:latest
 
-stages:
-  - build
-
-compile:
-  stage: build
+generate:
   script:
     - GOBIN=/usr/local/bin/ go install github.com/packwiz/packwiz@latest
     - cd packwiz
