@@ -55,11 +55,6 @@ hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "14113b3954ee87c110c2512556fdbfe7a24316ef0398dee65d26ccf98772e704"
-metafile = true
-
-[[files]]
 file = "mods/blockmeter.pw.toml"
 hash = "2a2b24cbed14e064cf2573fdf6cc489b20aa9179c2fd848e02aab557d7c5dd97"
 metafile = true
@@ -120,13 +115,13 @@ hash = "14d1fa99174e40f9eeacd1e3e0afa09b0c2be63c0d9b7fdf0d22f92e02eb995c"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "f2a8423765175190a918e39ddb48a3fb7ff922b8e42ee350315f2ce6e680df36"
+file = "mods/dashloader.pw.toml"
+hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
+file = "mods/dcch.pw.toml"
+hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true
 
 [[files]]
@@ -220,6 +215,11 @@ hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "3804ed093c0654b04502966d170014bd4387aa32f563882a1b9bdc21339dff79"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
@@ -295,8 +295,23 @@ hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "bcbc4091875a9f83813374950be1b9a1f89ac26f393afa54c85c29614069acf4"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "c8b862e2056b86b56304b1712c3b09fc8ff1794fd968148a055540ff2432424f"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "8cc917a1ec48b6aa8074cfe16ba2bbd3b9c9fa9c4a4dde7214fe25d8a492ed3d"
 metafile = true
 
 [[files]]
@@ -306,12 +321,17 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "85e2bfbfed071f711e2f489a0ba203fc41dc7132d4cf6070595e611960aacadc"
+hash = "bd86bfc2dc17789f239be8547a155b3e6f2429df1cffa23b2bcc1952b3cd24a8"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
 hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "ce255e065dba1c4cc20a9a9c0267ab4a102de3c4558933ccd63101103de04810"
 metafile = true
 
 [[files]]
@@ -335,6 +355,11 @@ hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
 
 [[files]]
+file = "mods/statuseffecttimer.pw.toml"
+hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "69214e78788c8db0b1b2e9fa48deff5fdb090dd590ced6898ac5b4286aa370b2"
 metafile = true
@@ -347,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/ugly-scoreboard-fix.pw.toml"
 hash = "67d080816182c2fb307ec9027cc5dd3f12b68d7452b0075fafcabf1142e2dbb1"
+metafile = true
+
+[[files]]
+file = "mods/wthit-plugins.pw.toml"
+hash = "822a0af12ddd67f9c970f428b04bb564bed6bc902920216388e9e212c95f0285"
 metafile = true
 
 [[files]]
