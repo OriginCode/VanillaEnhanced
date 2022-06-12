@@ -7,12 +7,12 @@ stages:
 prepare:
   stage: prepare
   script:
-    - GOBIN=$HOME/.local/bin go install github.com/packwiz/packwiz@latest
+    - GOBIN=/usr/local/bin/ go install github.com/packwiz/packwiz@latest
 
 compile:
   stage: build
   script:
-    - $HOME/.local/bin/packwiz mr export
+    - packwiz mr export
   artifacts:
     paths:
       - ./*.mrpack
