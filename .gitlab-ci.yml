@@ -10,3 +10,4 @@ generate:
     paths:
       - ./packwiz/*.mrpack
       - ./packwiz/*.zip
+    expire_in: 1 mos
