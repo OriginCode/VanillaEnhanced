@@ -90,11 +90,6 @@ hash = "955b5160e856fbc93b615ad021e78421383177db29a1b0bc451e2840ad659f79"
 metafile = true
 
 [[files]]
-file = "mods/cocoainput.pw.toml"
-hash = "cf6751b9797f9d615e34d2497a4d226b42d561bb07ecf1483b5e40856ea9a4e9"
-metafile = true
-
-[[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "705467dbef3e51481597a5ba871aa24a6aedac55791ae04e8c3dd77ea2ae55fd"
 metafile = true
@@ -240,11 +235,6 @@ hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
 metafile = true
 
 [[files]]
-file = "mods/malilib.pw.toml"
-hash = "b5b47d70b94e6519b798ce3f172339bba1413ee64cb08c4f0559d0d83b38bed3"
-metafile = true
-
-[[files]]
 file = "mods/map-tooltip.pw.toml"
 hash = "e27a5fc98099a8970c580d7797672611e1b7095d17c24cb8336d5bc4c2c86d90"
 metafile = true
@@ -252,11 +242,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "dc1f47a526f2264dc215437a81668d54c084d5beaaa6cbf6e284b88a59af88b5"
-metafile = true
-
-[[files]]
-file = "mods/minihud.pw.toml"
-hash = "fdda29af500ea4b6f6b4b04101caafdb651643dbad1ed8a22c89fd7718a07412"
 metafile = true
 
 [[files]]
