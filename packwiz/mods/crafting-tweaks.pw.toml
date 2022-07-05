@@ -1,13 +1,13 @@
 name = "Crafting Tweaks"
-filename = "craftingtweaks-forge-1.18.1-14.0.2.jar"
+filename = "craftingtweaks-fabric-1.19-15.0.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/15.0.1+fabric-1.19/craftingtweaks-fabric-1.19-15.0.1.jar"
 hash-format = "sha1"
-hash = "d34c0165fa1c7d4d919a2c464516c27243123504"
-mode = "metadata:curseforge"
+hash = "437a8a09c53a3299789956a904070e2982a414b5"
 
 [update]
-[update.curseforge]
-file-id = 3584842
-project-id = 233071
+[update.modrinth]
+mod-id = "DMu0oBKf"
+version = "XXSRJlH1"
