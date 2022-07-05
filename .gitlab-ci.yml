@@ -5,9 +5,7 @@ generate:
     - GOBIN=/usr/local/bin/ go install github.com/packwiz/packwiz@latest
     - cd packwiz
     - packwiz mr export
-    - packwiz cf export
   artifacts:
     paths:
       - ./packwiz/*.mrpack
-      - ./packwiz/*.zip
     expire_in: 1 mos
