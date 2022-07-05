@@ -1,0 +1,78 @@
+# Mod List
+
+- bad packets
+- Better Mount HUD
+- Don't Clear Chat History
+- Enchanted ToolTips
+- Fabric Language Kotlin
+- No Fade
+- AdvancementInfo
+- Animatica
+- AntiGhost
+- AppleSkin
+- Architectury API
+- Auth Me
+- Balm (Fabric Edition)
+- Beenfo
+- Block Meter
+- Blur (Fabric)
+- Borderless Mining
+- Concurrent Chunk Management Engine (Fabric)
+- Capes
+- CIT Resewn
+- Cloth Config API
+- CocoaInput
+- CompleteConfig
+- Continuity
+- Controlling
+- Crafting Tweaks
+- DashLoader
+- Debugify
+- Durability Viewer
+- Dynamic FPS
+- EasierVillagerTrading
+- Enhanced Block Entities
+- Enhanced Attack Indicator
+- EntityCulling
+- Fabric API
+- Fabrishot
+- FerriteCore
+- Gamma Utils
+- Giselbaer's Durability Viewer
+- Indium
+- Inventory Profiles Next
+- Iris Shaders
+- JourneyMap
+- Krypton
+- LambdaBetterGrass
+- LambDynamicLights
+- Language Reload
+- LazyDFU
+- Lithium
+- MaLiLib
+- Map Tooltip
+- Memory Leak Fix
+- MiniHUD
+- Mod Menu
+- MoreChatHistory
+- Mouse Wheelie
+- NBTtooltips
+- No Telemetry
+- Not Enough Crashes
+- OptiGUI
+- Puzzle
+- Reese's Sodium Options
+- Roughly Enough Items (REI)
+- Roughly Enough Resources
+- Show Me Your Skin!
+- Smooth Boot (Fabric)
+- Sodium Extra
+- Sodium
+- Starlight (Fabric)
+- Status Effect Timer
+- ToolTipFix
+- ToroHealth Damage Indicators
+- Ugly Scoreboard Fix
+- WTHIT Plugins
+- WTHIT
+- Zoomify

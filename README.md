@@ -1,5 +1,7 @@
 # OriginCode's VanillaEnhanced (Quilt)
 
+### \[[Mod List](./mods.md)\]
+
 Home-grown fresh VanillaEnhanced modpack. With 100+ optimization and assistant Fabric/Quilt mods, enhance your Minecraft experience.
 
 ## Notes
