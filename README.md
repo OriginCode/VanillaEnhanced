@@ -7,4 +7,4 @@ Home-grown fresh VanillaEnhanced modpack. With 100+ optimization and assistant F
 ## Notes
 
 - Minecraft 1.18.x requires Java 17 or newer to run
-- Latest `.mrpack` Modrinth and `.zip` CurseForge modpack files can be found at <https://factoria.origincode.me/OriginCode/vanillaenhanced/-/jobs>
+- Latest `.mrpack` Modrinth modpack can be found at <https://factoria.origincode.me/OriginCode/vanillaenhanced/-/jobs>
