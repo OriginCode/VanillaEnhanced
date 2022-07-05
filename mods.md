@@ -21,7 +21,6 @@
 - Capes
 - CIT Resewn
 - Cloth Config API
-- CocoaInput
 - CompleteConfig
 - Continuity
 - Controlling
@@ -49,10 +48,8 @@
 - Language Reload
 - LazyDFU
 - Lithium
-- MaLiLib
 - Map Tooltip
 - Memory Leak Fix
-- MiniHUD
 - Mod Menu
 - MoreChatHistory
 - Mouse Wheelie
@@ -76,3 +73,9 @@
 - WTHIT Plugins
 - WTHIT
 - Zoomify
+
+# Disabled Mods (Incompatible with the current Minecraft version)
+
+- CocoaInput
+- MaLiLib
+- MiniHUD
