@@ -48,6 +48,7 @@
 - Language Reload
 - LazyDFU
 - Lithium
+- MaLiLib
 - Map Tooltip
 - Memory Leak Fix
 - Mod Menu
@@ -77,5 +78,4 @@
 # Disabled Mods (Incompatible with the current Minecraft version)
 
 - CocoaInput
-- MaLiLib
 - MiniHUD
