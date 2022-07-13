@@ -1,13 +1,13 @@
 name = "OptiGUI"
-filename = "optigui-1.1.0.jar"
+filename = "optigui-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/v1.1.0+1.19/optigui-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/v1.1.1+1.19/optigui-1.1.1.jar"
 hash-format = "sha1"
-hash = "9b07bcd54c2d5974c813d2db5e595efd5836cebd"
+hash = "5da0d10efb27e8cc3db902ef5e2480d608fabf71"
 
 [update]
 [update.modrinth]
 mod-id = "JuksLGBQ"
-version = "EmeZ0Gqt"
+version = "SBi7COdt"
