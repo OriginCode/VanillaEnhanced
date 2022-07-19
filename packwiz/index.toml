@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "435e56fcc8cfa57b703bf8fc58cff9bc7662341324a87390ae18d9131cd1336c"
+hash = "c3f4413a6233b9b037854befc548a64ba4eb9f36dabb2adb0f8589182823f8bb"
 metafile = true
 
 [[files]]
@@ -160,11 +160,6 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
 metafile = true
@@ -246,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "dc1f47a526f2264dc215437a81668d54c084d5beaaa6cbf6e284b88a59af88b5"
+hash = "9d831580e7244af99d75d521fd3b36a4d6d0462b01839051e9f62667b3a14a2e"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "482d796d5448f41d254a12f60dc3891f88b5337c9d87ef0775306de00f9ef6e6"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
@@ -295,13 +290,18 @@ hash = "ac7920d31fab63ba23daf953a44750930f597bcd3bc11121845541e934d0aef4"
 metafile = true
 
 [[files]]
+file = "mods/qsl.pw.toml"
+hash = "87d7dc6ecde7385036a802afd8c593236cf8e60f2479b575d78e5396ae556c04"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "f18fb647d438b68de8cf2a01900d16cdc1d6477e2f49e71d6a5b5d012b47b0a1"
+hash = "262747a4c510468917e3ba218fe95680e17ce80522661c65157d64a8ec40a62f"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d2ee0734a9f152bc0c93fc9d660f615cdf839ba269e321ecb2607f34ac44c097"
+hash = "20c2d984537d65510c1a5139204f64fe8e780bd7af196c2b65ff409d8846e971"
 metafile = true
 
 [[files]]

@@ -33,7 +33,6 @@
 - Enhanced Block Entities
 - Enhanced Attack Indicator
 - EntityCulling
-- Fabric API
 - Fabrishot
 - FerriteCore
 - Gamma Utils
@@ -59,6 +58,7 @@
 - Not Enough Crashes
 - OptiGUI
 - Puzzle
+- Quilted Fabric API / Quilt Standard Libraries
 - Reese's Sodium Options
 - Roughly Enough Items (REI)
 - Roughly Enough Resources
