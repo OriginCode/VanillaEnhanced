@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "93520713ed82d6b681e9d9502f2905aa8445b790548d467a47a192270537c913"
+
+[[files]]
 file = "config/minihud.json"
 hash = "a4cc0dee81dbe3258ea8da98e7355aac35fc52a8fb643edf21703c8d3e8b3904"
 
@@ -52,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "97b90825ea397eae1dc108b5a9257e3065feacb553e72c019fba62495a72c1d0"
 metafile = true
 
 [[files]]
@@ -110,6 +119,11 @@ hash = "0db47f77ba9a7e030922cf08bd58cd2b678d75f83248ddb9d563e81768312226"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "5e289f7ef37b75b340dde02ee3a11a92ba6d4f045fd4f67eb3647b18cf51f739"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
 metafile = true
@@ -122,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "004dbebb72fb7b4afaa12797a18c0871b78da1cc930ee0a9e65a485a99d6232b"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "1427eb316137f045fc0ed36f5c7c22c7cad0d3133624e8cc6cce597887998297"
 metafile = true
 
 [[files]]
@@ -145,11 +164,6 @@ hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
 
 [[files]]
-file = "mods/enchanted-tooltips.pw.toml"
-hash = "c0e7c9316a2e633abc88671d378863961aed0bc016b9415c21b424e8821fa0dd"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "60c798ad6cb06c66714ac413e3c867bc2bb8c3b0eab450e9d430142f5f732d55"
 metafile = true
@@ -157,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
 metafile = true
 
 [[files]]
@@ -241,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "9d831580e7244af99d75d521fd3b36a4d6d0462b01839051e9f62667b3a14a2e"
+hash = "9bedd7ca66c806a5bc8bfefc04ac3a4665bccf3a6672e3a4ebd69dd752c5ee6f"
 metafile = true
 
 [[files]]
@@ -265,13 +284,13 @@ hash = "ce7b337f700f8514e0f23f213dbfb500e15674241eb3ba55411842f5fee86c03"
 metafile = true
 
 [[files]]
-file = "mods/no-fade.pw.toml"
-hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
+file = "mods/no-chat-reports.pw.toml"
+hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
 metafile = true
 
 [[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
+file = "mods/no-fade.pw.toml"
+hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
@@ -307,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
 hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
 metafile = true
 
 [[files]]

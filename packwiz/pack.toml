@@ -1,12 +1,12 @@
-name = "OriginCode's VanillaEnhanced"
+name = "VanillaEnhanced"
 author = "OriginCode"
-version = "1.19_20220719"
+version = "1.19_20220720"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "98dc1524ae1d5423b844c2d175b953829789fa792f162fecb692649d77c358f1"
+hash = "d160f8bb7da148fc1c3991f0cb3864a415a6581d852749e00b5053af49fe7ffc"
 
 [versions]
 minecraft = "1.19"
