@@ -3,7 +3,6 @@
 - bad packets
 - Better Mount HUD
 - Don't Clear Chat History
-- Enchanted ToolTips
 - Fabric Language Kotlin
 - No Fade
 - AdvancementInfo
@@ -12,7 +11,7 @@
 - AppleSkin
 - Architectury API
 - Auth Me
-- Balm (Fabric Edition)
+- Balm
 - Beenfo
 - Block Meter
 - Blur (Fabric)
@@ -36,7 +35,6 @@
 - Fabrishot
 - FerriteCore
 - Gamma Utils
-- Giselbaer's Durability Viewer
 - Indium
 - Inventory Profiles Next
 - Iris Shaders
@@ -54,7 +52,6 @@
 - MoreChatHistory
 - Mouse Wheelie
 - NBTtooltips
-- No Telemetry
 - Not Enough Crashes
 - OptiGUI
 - Puzzle
@@ -74,6 +71,12 @@
 - WTHIT Plugins
 - WTHIT
 - Zoomify
+- Entity Texture Features [Fabric]
+- BetterF3
+- Cull Less Leaves
+- No Chat Reports
+- Detail Armor Bar
+- Screenshot to Clipboard
 
 # Disabled Mods (Incompatible with the current Minecraft version)
 
