@@ -4,7 +4,6 @@
 - Better Mount HUD
 - Don't Clear Chat History
 - Fabric Language Kotlin
-- No Fade
 - AdvancementInfo
 - Animatica
 - AntiGhost
@@ -77,6 +76,26 @@
 - No Chat Reports
 - Detail Armor Bar
 - Screenshot to Clipboard
+- Better Recipe Book
+- Advancements Debug
+- Enhanced Searchability
+- Better Resource Pack Sorting
+- Draggable Resource Packs
+- More Culling
+- Mixin Conflict Helper
+- DeathLog
+- Fastload
+- Recipe Book is Pain
+- Amecs
+- Skip Transitions
+- UI Input Undo (Fabric)
+- Shadowed Action Bar
+- Custom LAN
+- Item Model Fix
+- Dimensional Threading
+- Block Entity Extended Rendering
+- CapeTweaks
+- 3D Skin Layers
 
 # Disabled Mods (Incompatible with the current Minecraft version)
 

@@ -9,8 +9,23 @@ file = "config/minihud.json"
 hash = "a4cc0dee81dbe3258ea8da98e7355aac35fc52a8fb643edf21703c8d3e8b3904"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "6e6eaefbfaef2bcc5f1fae83112b3a6ab311c84ef776f389d13d49a500a52217"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "4630f59c3ac70d37641704833a8cc94171eb02697969277159b749ea15e74c00"
+metafile = true
+
+[[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
 metafile = true
 
 [[files]]
@@ -54,8 +69,18 @@ hash = "27a145220af5b044739ae1b414a0fa1a44d55de811867f69a7b4eed82425a949"
 metafile = true
 
 [[files]]
+file = "mods/beer.pw.toml"
+hash = "0113ace057812dd0644b2347a398b9bde9ba239f0cac8d9cadc30575ebce982f"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
+metafile = true
+
+[[files]]
+file = "mods/better-resource-pack-sorting.pw.toml"
+hash = "8b6a4792d4395eecc90cbdf095a694f503248ac99915e9deb8d6d64f5e6236a1"
 metafile = true
 
 [[files]]
@@ -79,6 +104,11 @@ hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
 metafile = true
 
 [[files]]
+file = "mods/brb.pw.toml"
+hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
 metafile = true
@@ -86,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "3b2c1ac53b3aed8e5d0a20ed50a663e8c24948216ab93acd4135c69b3c2fa1e1"
+metafile = true
+
+[[files]]
+file = "mods/capetweaks.pw.toml"
+hash = "40be8fedc25e8bd91b6096f1423047f7f5d7db33e5037cb3cf13cd6c593930a6"
 metafile = true
 
 [[files]]
@@ -124,6 +159,11 @@ hash = "5e289f7ef37b75b340dde02ee3a11a92ba6d4f045fd4f67eb3647b18cf51f739"
 metafile = true
 
 [[files]]
+file = "mods/custom-lan.pw.toml"
+hash = "b7a95705274f4a44c2570b324ed0374198ba6471b54afe318aea0007247b79b5"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
 metafile = true
@@ -134,6 +174,11 @@ hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.pw.toml"
+hash = "502d2dfa63f005c48a460f2f5ab241611714e9d42b5104069f84aeddc0b4180c"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "004dbebb72fb7b4afaa12797a18c0871b78da1cc930ee0a9e65a485a99d6232b"
 metafile = true
@@ -141,6 +186,16 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "1427eb316137f045fc0ed36f5c7c22c7cad0d3133624e8cc6cce597887998297"
+metafile = true
+
+[[files]]
+file = "mods/dimthread.pw.toml"
+hash = "edf4d6024ba380cc5e3d308da2077a22288b03e9ac465000d604fa5df0241911"
+metafile = true
+
+[[files]]
+file = "mods/draggable-resource-packs.pw.toml"
+hash = "10e705616d5d07329d0af82740036540ca47dd7408b02ecdab22402f3aaf6b11"
 metafile = true
 
 [[files]]
@@ -169,6 +224,11 @@ hash = "60c798ad6cb06c66714ac413e3c867bc2bb8c3b0eab450e9d430142f5f732d55"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-searchability.pw.toml"
+hash = "e8e4c4c6d7664cb92ee0cd9648d97103cd28e8d2d3f76dfe5ca71c0481019ba2"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
@@ -186,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "0b0b7d2de5e46b9032ae84b25f554839e7fabfeab7bd8bcb48392b940e112f38"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "ac0a425f01b57603d143e65eebba8b53078474c61f8f0a9a35ab2bbd7ed3a931"
 metafile = true
 
 [[files]]
@@ -211,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
 metafile = true
 
 [[files]]
@@ -264,6 +334,11 @@ hash = "9bedd7ca66c806a5bc8bfefc04ac3a4665bccf3a6672e3a4ebd69dd752c5ee6f"
 metafile = true
 
 [[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "f89672b5ffcb247fb31e616b4de8f7e8a460802c7826d27a64328f27c190734d"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
@@ -271,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "d89fe3b22b4261c4c9dc8351c9c5a7dd3ed754fd7dbb9c7428ef051334163b1f"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "a36c4ccbc2b3748f8a7e0818cc495b614a67f9b56ae977bd7d3b9974b36ee819"
 metafile = true
 
 [[files]]
@@ -286,11 +366,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
-metafile = true
-
-[[files]]
-file = "mods/no-fade.pw.toml"
-hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
@@ -314,6 +389,11 @@ hash = "87d7dc6ecde7385036a802afd8c593236cf8e60f2479b575d78e5396ae556c04"
 metafile = true
 
 [[files]]
+file = "mods/rbip.pw.toml"
+hash = "f0ff4dcea69e7dbacdb7764cc337cc90a07d7e346811050866dfee97799259c6"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
 metafile = true
@@ -334,8 +414,18 @@ hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
 metafile = true
 
 [[files]]
+file = "mods/shadowedactionbar.pw.toml"
+hash = "c693274809ac9f6268538f49d4fa66bcbc84570d8921e8bd6a596b89d9b168f8"
+metafile = true
+
+[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "22e15c00bdfedc47f9cd8c49df95ae8cc8fd1e061eec0cc92925da565e0866a8"
+metafile = true
+
+[[files]]
+file = "mods/skip-transitions.pw.toml"
+hash = "2fa2a85756bccff04668147d557e77394a583604ab2eae258311cff9e0864512"
 metafile = true
 
 [[files]]
@@ -376,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/ugly-scoreboard-fix.pw.toml"
 hash = "62276d031b4c94e42c10a420f729eafe0e6f6d6749651931cc3079298e6bad19"
+metafile = true
+
+[[files]]
+file = "mods/ui-input-undo-fabric.pw.toml"
+hash = "65290eea5327eec6048bf873fe88abb93ca427c7a7974c6461025ec13e5cea25"
 metafile = true
 
 [[files]]
