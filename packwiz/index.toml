@@ -9,6 +9,10 @@ file = "config/minihud.json"
 hash = "a4cc0dee81dbe3258ea8da98e7355aac35fc52a8fb643edf21703c8d3e8b3904"
 
 [[files]]
+file = "config/multiconnect/config.json"
+hash = "c9ef7cebc6d2066002a2b669474158ea01b516402d6ede0b665a375822fe7441"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6e6eaefbfaef2bcc5f1fae83112b3a6ab311c84ef776f389d13d49a500a52217"
 metafile = true
