@@ -101,3 +101,4 @@
 
 - CocoaInput
 - MiniHUD
+- MultiConnect
