@@ -18,7 +18,6 @@
 - Concurrent Chunk Management Engine (Fabric)
 - Capes
 - CIT Resewn
-- Cloth Config API
 - CompleteConfig
 - Continuity
 - Controlling
@@ -100,5 +99,6 @@
 
 # Disabled Mods (Incompatible with the current Minecraft version)
 
+- Cloth Config API
 - CocoaInput
 - MultiConnect
