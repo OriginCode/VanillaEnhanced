@@ -82,6 +82,7 @@
 - Better Resource Pack Sorting
 - Draggable Resource Packs
 - More Culling
+- MiniHUD
 - Mixin Conflict Helper
 - DeathLog
 - Fastload
@@ -100,5 +101,4 @@
 # Disabled Mods (Incompatible with the current Minecraft version)
 
 - CocoaInput
-- MiniHUD
 - MultiConnect

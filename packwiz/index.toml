@@ -10,7 +10,7 @@ hash = "a4cc0dee81dbe3258ea8da98e7355aac35fc52a8fb643edf21703c8d3e8b3904"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "6e6eaefbfaef2bcc5f1fae83112b3a6ab311c84ef776f389d13d49a500a52217"
+hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockmeter.pw.toml"
-hash = "30d378b8bd4b7674cb7d8b39f957f93c725da2f5494650901f944c859014fbdb"
+hash = "aa347fb2d84ed5d40ce08014972734fb069221ecae48eae66f76d70ade0d126b"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-lan.pw.toml"
-hash = "b7a95705274f4a44c2570b324ed0374198ba6471b54afe318aea0007247b79b5"
+hash = "fb5c1c31a7c4ecb1e7ffab7341c4b9be5416a5e7df48e68cef6d1f87ba6b5b83"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
@@ -330,7 +330,12 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "9bedd7ca66c806a5bc8bfefc04ac3a4665bccf3a6672e3a4ebd69dd752c5ee6f"
+hash = "8fca044c06687f1e0f645ea179fa96a73abe84c7e4e4c982633868c150553732"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "4dd0a7589833be6441edea5369f06fe7f8a01d758b685a7792f99b5cf4175888"
 metafile = true
 
 [[files]]
@@ -350,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "70794068a407652022124d83b39e696d2c3194daeea0e4993afd50fb0351552c"
+hash = "8146180d1612a9ec226fb5981f0a95167c19a4a0e6a188eae93c94e5bcc8ea47"
 metafile = true
 
 [[files]]
@@ -400,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "84c366e5f0d189b5e677d254ea1efb61e12ef4e354079fe33d637c754a1571e7"
+hash = "293a1b92fe3b6671426951099aaa589def569085b9a58d17d8fe7d89be1e3203"
 metafile = true
 
 [[files]]
@@ -420,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "22e15c00bdfedc47f9cd8c49df95ae8cc8fd1e061eec0cc92925da565e0866a8"
+hash = "f39cddd5f7cfef1922a384b5adcc744bf54622a3e8c0e37e10d7ea92aab2f068"
 metafile = true
 
 [[files]]
@@ -480,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "cec6c78672e420d4f38f05cb3a95fed3d76ec3573804244a29edfd3859269281"
+hash = "d39dcdcdf9be08f24b02c95820df12c17adc6105ebf69598ab681924a3d5e12a"
 metafile = true
 
 [[files]]
