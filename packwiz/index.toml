@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b10b2a8ee124f43934c1e483262e1dd7b7480c8eb4adc929b26ed0b5d2d41d3e"
+hash = "79d10b35c03c33c05e1d72276af5884e032e14040551d4abc79febfc8bdc995c"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7ae97c17b4a89cef5adae6804674af91a4409bd23e28968f5291688f29ee86cb"
+hash = "83581f046e550740aac9976d8a51717ec5811da1864db51578f99b611380b4a4"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "829abec4092bf45c5aa8764ceeb776a352c497e66ee5fcb0ef110845580fb1a3"
+hash = "93705ce2385c0af67a22bdde4229c9e0544cd1e83e61e53ce0632153559f5cb9"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "8146180d1612a9ec226fb5981f0a95167c19a4a0e6a188eae93c94e5bcc8ea47"
+hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "ac7920d31fab63ba23daf953a44750930f597bcd3bc11121845541e934d0aef4"
+hash = "48aefe7fedf925380793a244646e6449cf3f5aebeeb651b09ab86d6638e8b0c1"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "f39cddd5f7cfef1922a384b5adcc744bf54622a3e8c0e37e10d7ea92aab2f068"
+hash = "7a86f516e4dc80954dbc69d340adbe42bb0bbc7d90dae154d3f0c7fc70369714"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d39dcdcdf9be08f24b02c95820df12c17adc6105ebf69598ab681924a3d5e12a"
+hash = "6473a3def930cc9a293a3fff40f8d4070be24f0b74a090d994d17e8b103858b5"
 metafile = true
 
 [[files]]
