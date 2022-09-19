@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "7db65bc77910c1c7e2a9b195b61c7376d573940fd6c3c523c7ed48df1f8fe5b5"
+hash = "baf54630db6392999b4232b11fd919383c51b1ef50e8708f902a8cb8422b4bd6"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
+hash = "76a5d61442e06180aede0b5cf457f04b471b37d85a8631726d550f9309b2ddeb"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "86fd76830339379e145c23747d51608f1a3165df7e747184f2d9fc890c7ab385"
+hash = "ebc51dded184382bffbe4b7aeec50c2817f440851926d8fb2aac848ad369bedb"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "1a32186b1e676035de8810f1b6ab6bbb2763996c5e53aef95878908e9d9e487b"
+hash = "8f94d7a661f7d097b9d58636e5b61306fa8209b62128d7c225f765b0fafd0026"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "942915b4c02216c49d7ed821b2d062f5a96f921f3dde628952b6401aa38c98a4"
+hash = "60c62df22bf4df4cbe6445405c92617fdeab7060499caade5eea7cfb36679fe8"
 metafile = true
 
 [[files]]
@@ -419,8 +419,13 @@ hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
 metafile = true
 
 [[files]]
+file = "mods/semitranslucency.pw.toml"
+hash = "7588d902d3e6799a203c3d299814f2792d56fd27a6569670d85652a46c81ff9c"
+metafile = true
+
+[[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "7a86f516e4dc80954dbc69d340adbe42bb0bbc7d90dae154d3f0c7fc70369714"
+hash = "7ceb0144fb10f62fa43e59d6fabeabe788bd03d8e2be866dc8219652569ccc87"
 metafile = true
 
 [[files]]
@@ -485,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "426c6d6cf3ce529aecebaa964b82eb9332e9afdbc326583b45633d032df4ca69"
+hash = "174d201a1340d49f94088201a5730cb4ce34544ea1a66e3316e7610eaef0ffd7"
 metafile = true
 
 [[files]]
