@@ -1,63 +1,56 @@
 # Mod List
 
-- bad packets
 - Better Mount HUD
 - Don't Clear Chat History
 - Fabric Language Kotlin
-- AdvancementInfo
+- Screenshot to Clipboard
+- Advancements Debug
+- Recipe Book is Pain
+- Skip Transitions
+- Amecs
 - Animatica
-- AntiGhost
 - AppleSkin
-- Architectury API
 - Auth Me
-- Balm
-- Beenfo
-- Block Meter
+- Block Entity Extended Rendering
+- Better Resource Pack Sorting
+- BetterF3
 - Blur (Fabric)
 - Borderless Mining
-- Concurrent Chunk Management Engine (Fabric)
+- Better Recipe Book
 - Capes
+- CapeTweaks
 - CIT Resewn
 - CompleteConfig
 - Continuity
-- Controlling
-- Crafting Tweaks
+- Cull Less Leaves
 - DashLoader
-- Debugify
-- Durability Viewer
+- DeathLog
+- Detail Armor Bar
+- Dimensional Threading
+- Draggable Resource Packs
 - Dynamic FPS
-- EasierVillagerTrading
 - Enhanced Block Entities
 - Enhanced Attack Indicator
+- Enhanced Searchability
 - EntityCulling
+- Entity Texture Features
 - Fabrishot
+- Fastload
 - FerriteCore
 - Gamma Utils
-- Indium
 - Inventory Profiles Next
 - Iris Shaders
-- JourneyMap
-- Krypton
+- Item Model Fix
 - LambdaBetterGrass
 - LambDynamicLights
 - Language Reload
 - LazyDFU
-- Lithium
-- MaLiLib
 - Map Tooltip
-- Memory Leak Fix
-- Mod Menu
-- MoreChatHistory
 - Mouse Wheelie
 - NBTtooltips
 - Not Enough Crashes
 - OptiGUI
-- Puzzle
-- Quilted Fabric API / Quilt Standard Libraries
-- Reese's Sodium Options
-- Roughly Enough Items (REI)
 - Roughly Enough Resources
-- Show Me Your Skin!
 - Smooth Boot (Fabric)
 - Sodium Extra
 - Sodium
@@ -65,40 +58,43 @@
 - Status Effect Timer
 - ToolTipFix
 - ToroHealth Damage Indicators
-- Ugly Scoreboard Fix
+- UI Input Undo (Fabric)
 - WTHIT Plugins
+- 3D Skin Layers
+- Block Meter
+- Indium
+- Roughly Enough Items (REI)
+- Balm
+- Crafting Tweaks
+- More Culling
+- Puzzle
+- Reese's Sodium Options
+- Show Me Your Skin!
 - WTHIT
 - Zoomify
-- Entity Texture Features [Fabric]
-- BetterF3
-- Cull Less Leaves
-- No Chat Reports
-- Detail Armor Bar
-- Screenshot to Clipboard
-- Better Recipe Book
-- Advancements Debug
-- Enhanced Searchability
-- Better Resource Pack Sorting
-- Draggable Resource Packs
-- More Culling
+- AdvancementInfo
+- AntiGhost
+- Architectury API
+- bad packets
+- Beenfo
+- Better Ping Display [Fabric]
+- Concurrent Chunk Management Engine (Fabric)
+- Controlling
+- Custom LAN
+- Debugify
+- Durability Viewer
+- EasierVillagerTrading
+- JourneyMap
+- Krypton
+- Lithium
+- MaLiLib
+- Memory Leak Fix
 - MiniHUD
 - Mixin Conflict Helper
-- DeathLog
-- Fastload
-- Recipe Book is Pain
-- Amecs
-- Skip Transitions
-- UI Input Undo (Fabric)
-- Shadowed Action Bar
-- Custom LAN
-- Item Model Fix
-- Dimensional Threading
-- Block Entity Extended Rendering
-- CapeTweaks
-- 3D Skin Layers
-
-# Disabled Mods (Incompatible with the current Minecraft version)
-
-- Cloth Config API
-- CocoaInput
-- MultiConnect
+- Mod Menu
+- MoreChatHistory
+- No Chat Reports
+- Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)
+- Ugly Scoreboard Fix
+- YetAnotherConfigLib
+- Semitranslucency Fix
