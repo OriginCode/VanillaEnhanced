@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "76a5d61442e06180aede0b5cf457f04b471b37d85a8631726d550f9309b2ddeb"
+hash = "4af2fed6585b6523b0dea6d5eef7c8139cbda61db34327a2e9e06a116e9fa6f7"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "3f196a5ba67e18f52901014dd413376944faf11cbf2f35722a08ac6195dd363d"
+hash = "c3e1c25d84723b504c591d03a50c1b2d458147dec6538d3893d32404153d99b9"
 metafile = true
 
 [[files]]
