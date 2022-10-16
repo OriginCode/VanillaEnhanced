@@ -270,12 +270,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "34e7ebfe442ff1a492411504d1b444bf9204432ce0153779e068ac14a2ad1655"
+hash = "2acd6d99abc9774fb38395bd825039343d7189fb9712f17788410fa731d5147c"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
 
 [[files]]
@@ -315,12 +315,12 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "65bb57fe8fd5a4a9d0de9d7d11cf5831c02de90fe652ae7895e6f69b6d594cd1"
+hash = "899e263cf28795ccb2e5848232a3a5813266839cbcdfca5df881965a9523af8a"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+hash = "e65f669f804c27cdcd14d511b39caa2aefd24f9da23781214c6ab60ff10f604e"
 metafile = true
 
 [[files]]
@@ -374,6 +374,11 @@ hash = "ce7b337f700f8514e0f23f213dbfb500e15674241eb3ba55411842f5fee86c03"
 metafile = true
 
 [[files]]
+file = "mods/neat.pw.toml"
+hash = "a284191b062b1be5e2a9f05257bf91f2938531988c1ba0090fadc966f942bd76"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "3d4e2da11e8a0abf3ca6109630934a7fa400ed49cd6a871b2862abf252f9ada7"
 metafile = true
@@ -395,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "997b1a93ccd70d86710170532e27b301cd15723fd7e8e74a14d8322ce5d47dd7"
+hash = "6c5cbc9f655596f6f9a7e718857fc0482f4172e55239e735b3c02a5fdbacac8e"
 metafile = true
 
 [[files]]
@@ -490,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "de08ce31ccfbd64fb308ddb0d1076d4e6cd65ac43bd6a16e57e01a1d14336428"
+hash = "b0edd73a7a58bd592f67d61083db20ea896dbbdd79c1c410efe0c692b3bcfc08"
 metafile = true
 
 [[files]]
@@ -500,5 +505,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "2ef6bd2d5beb568877c9e9d379f59d7ce6fe0bff3bae958a1c65d17cce9a09fd"
+hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
 metafile = true
