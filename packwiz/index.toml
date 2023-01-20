@@ -235,12 +235,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1a249012c4371ea18605087edaf1d72eee3d60674d62376232e7b271b98c699b"
+hash = "cce527e82fdbc8f13fe67258090b8980e4b92551a22d5643705be6e8871b575b"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
 metafile = true
 
 [[files]]
@@ -250,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "a5c59c3e730a90d86c9fcc59a36eeed58235826cd6630d208dd1422b3d4f0727"
+hash = "46a497398e476b0bbac4a1c9816da987be2a9afc2e62011d584963beef0ba45e"
 metafile = true
 
 [[files]]
@@ -264,18 +269,23 @@ hash = "61c9106111d0e22864a9a68f678faa5094fc1cbdfdc50a72d3898b1bc217a032"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "784f2f9d83342810ceafb5b6b7ddfec867ce807b7498d32e656a924f97a8009d"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "3d28bad288dc9c76a041f008c4778b52b419a8bec8caf792623e50addf21d2a3"
+hash = "d50cba471a9055731e2a5c2e96bc3da3130079c1c573ee85d57c08ec4d999581"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
+hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
 metafile = true
 
 [[files]]
@@ -285,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "6911ad165964bf683549426e6be93b7a86d2e576f2dac9316cdec6615036f9e0"
+hash = "30674895795238465a459627b3866840012db27328d9b5b5a319bfdcf4f65915"
 metafile = true
 
 [[files]]
@@ -300,12 +310,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "fcec3755049b9f8eaf6b9d2e063745ae2f4806981ad5def32354ee3dd54a4697"
+hash = "e7e06878a40e4733a45b06aba4e1adaf09905485268e9c19e75a6ed9c0f86490"
 metafile = true
 
 [[files]]
@@ -315,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "b3d979146ffc548ff5aa6c121f3f73e5749ca04e2e39e1597f10e76f6a5b7cff"
+hash = "562362e7aca8c229409c6413cf686f77b3a734725a8b9a9704b53501f14446ed"
 metafile = true
 
 [[files]]
@@ -365,12 +375,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "db19edc58c7779aba173e9aae60a550f16535f9395046afc870982157aaedb5a"
+hash = "95968c19d093f7074af27079bc2f7f5fb09f21c2c659355fe8da7ea168e23c84"
 metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "e743ba3f78900d92e3df0831d8eb4c51f3e1d151b3f827c510e256b068e4e7d9"
+hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
 metafile = true
 
 [[files]]
@@ -395,17 +405,17 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "48aefe7fedf925380793a244646e6449cf3f5aebeeb651b09ab86d6638e8b0c1"
+hash = "02afa656e08ce408c1b541e60d9126b8bac35b55a26950547291ee8f54c1899d"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d6593b7ec2735cf3867d1d01d29b8adfb3a24e93932022ea299f977e7a81dedd"
+hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
 metafile = true
 
 [[files]]
 file = "mods/rbip.pw.toml"
-hash = "b379e359d8972222b40a1eee8f7d9d2e790ea3282334e2cc99e6ebb7f24b9e93"
+hash = "a83cc72e144ad426bd7c14e03267fe669846388f26e7fed990a520564fbcbe47"
 metafile = true
 
 [[files]]
@@ -435,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "a49036d05fefdf607d4e2365a1bfb29712e69acf2fbe12729491646d981392c1"
+hash = "9c08011eaed91ca490a032279dd468d414a0153db6d8d24438a9cbf5a162d1bb"
 metafile = true
 
 [[files]]
@@ -450,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
@@ -470,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "379fc2a0bb704376335fa0ab301c3ed606d6bbdd520fa2bca1aeb86763d42b76"
+hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
