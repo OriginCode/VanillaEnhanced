@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
+hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "46a497398e476b0bbac4a1c9816da987be2a9afc2e62011d584963beef0ba45e"
+hash = "5c8052da686be9d2f1fa1af780419cacbf0891dc838f8131028fe512a0738174"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "87066ad1a766c9f105f5d1c1b8f4d28f81a68f3103f51db9d867170229215ac9"
+hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
 metafile = true
 
 [[files]]
@@ -280,12 +280,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "bfc8c590bd1255bd71384ffd9155ee1d082631aabdda874af0a1149be92ae088"
+hash = "28e812a40a5d86fb09985c57c35f85f8c8245a2f03c1e6420d55265daf095d65"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "2355898e55539353e3fe43057c1c2880e02ceb6b64c8f5d1e0bc2a660635c323"
+hash = "1f17cb6a5689d747c85fb83e14ea3e4d88cbbba7d8b67876c35042848200d205"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c54336cc0d6659f031b4aff3fd9e95091e6109f072134fa51c5c73ddb67a1b80"
+hash = "91a17412411a9f57e687a0f536f902c043c24ef06571b9f2003ecdb5ee5a4f0c"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/rbip.pw.toml"
-hash = "22845ba65ca910291fc6c93350a89e2f63f67adfcb8c86362d666250fafc4fcb"
+hash = "19cef506ca550e51525d7ccfc1a94bcdc2dae3e0359a12135f464a2fc839a301"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "9c08011eaed91ca490a032279dd468d414a0153db6d8d24438a9cbf5a162d1bb"
+hash = "b9b1fb91b91c31edf387d97be95863433ad5e16f31103f26742baba2603ad1de"
 metafile = true
 
 [[files]]
