@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "5c8052da686be9d2f1fa1af780419cacbf0891dc838f8131028fe512a0738174"
+hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1f17cb6a5689d747c85fb83e14ea3e4d88cbbba7d8b67876c35042848200d205"
+hash = "8a762171b89a5265ad651263b4691a098ce6429edd74b4ddb09c7c33286fcc75"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/rbip.pw.toml"
-hash = "19cef506ca550e51525d7ccfc1a94bcdc2dae3e0359a12135f464a2fc839a301"
+hash = "a25bfea6a325eccd8ac8bbc192b6dcf2e2c3c8a5d8948932234cfc25025bffde"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "b9b1fb91b91c31edf387d97be95863433ad5e16f31103f26742baba2603ad1de"
+hash = "9f80b145f01ee278dc79745adf8050f59a2068a9b7bce45cdb4f085b622e3eb6"
 metafile = true
 
 [[files]]
