@@ -1,13 +1,13 @@
 name = "Custom LAN"
-filename = "custom-lan-1.19.1-v2.2.0.jar"
+filename = "custom-lan-1.19.4-1.19.4-v2.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OCvCFPNR/versions/ANLbU0V6/custom-lan-1.19.1-v2.2.0.jar"
+url = "https://cdn.modrinth.com/data/OCvCFPNR/versions/mqDB7gHo/custom-lan-1.19.4-1.19.4-v2.2.1.jar"
 hash-format = "sha1"
-hash = "35602601cfafa62fd801afd3818630e6ba622854"
+hash = "b41364751c80aad2f9c99ed1b0515b7d19473a86"
 
 [update]
 [update.modrinth]
 mod-id = "OCvCFPNR"
-version = "ANLbU0V6"
+version = "mqDB7gHo"
