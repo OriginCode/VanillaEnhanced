@@ -1,16 +1,16 @@
 name = "VanillaEnhanced"
 author = "OriginCode"
-version = "1.19_1.19.4-20230425"
+version = "1.19_1.19.4-20230506"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "84d34c4c55ef2250851fdcd90a179764404e894d99480ada1173451465d8d848"
+hash = "6c7f7e6253f0c565a70e7528728bad10f9186fd7f538577b2b51e3fcefa371bc"
 
 [versions]
 minecraft = "1.19.4"
 quilt = "0.18.10"
 
 [options]
-acceptable-game-versions = ["1.19.4", "1.19.3"]
+acceptable-game-versions = ["1.19.4"]
