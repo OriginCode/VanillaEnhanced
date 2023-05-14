@@ -1,0 +1,13 @@
+name = "Durability101"
+filename = "Durability101-fabric-1.19.4-0.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yt3rEMOb/versions/j7wVIsME/Durability101-fabric-1.19.4-0.0.4.jar"
+hash-format = "sha1"
+hash = "f533e7f37a46aeb5e9f4a081bf9cce10df4b7efe"
+
+[update]
+[update.modrinth]
+mod-id = "Yt3rEMOb"
+version = "j7wVIsME"

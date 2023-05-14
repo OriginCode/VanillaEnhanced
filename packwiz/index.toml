@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "ab98ef7c141606c3c46a257093bc6325781c0bd00921c42d280a78e89a538efe"
+hash = "0c06b918cdc4c20a81973cbad7af65fe1d454af04bfcaab9084635d579c2ee27"
 metafile = true
 
 [[files]]
@@ -169,6 +169,11 @@ hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
 metafile = true
 
 [[files]]
+file = "mods/durability101.pw.toml"
+hash = "63d14ef1c178111cd74f904dc96a53bee6ece97111cc70195867f3f8bcc70fc5"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -195,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f2aabdd214e4e6f5694480372d0d864e7a22f9f683a215faf018836fc1f2bcd9"
+hash = "416fdc912dd2bbc125eaaa322e5cc3536aaf341264caceebf1ee129df48b9c77"
 metafile = true
 
 [[files]]
@@ -235,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
+hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
 
 [[files]]
@@ -245,12 +250,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
+hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "265bf6a87ce8651ef1b8c8b491144e9c1ba6cc20a4c83a0534a05e48fff9d96c"
+hash = "166e9c1b7065997daec0a910789b05e8350cc90d56beeb9b85b53c498ae71ab8"
 metafile = true
 
 [[files]]
@@ -319,6 +324,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
 metafile = true
@@ -331,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "a0d941f8165acf29b52cf0444700e04b228e0b8710bb17e8760d9de7fbb09fe1"
 metafile = true
 
 [[files]]
@@ -380,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/rbip.pw.toml"
-hash = "b9073ed4af83dab342d4cff182981c781da4409c0fac092d5b4cc36e8c754991"
+hash = "7385d6eabb9e7293aebaedbb93d69dffe8c1b6d0ec96c1956e159b8b21cb5fcd"
 metafile = true
 
 [[files]]
@@ -420,12 +435,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
@@ -455,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "ece41402c3374cb1817b47ecf9e6612ef3bf8f40194d23d35e10e8e9d7743583"
+hash = "e1255efadee4f69cea3c1066d4d990137d84c7ba62e8b4ab8508e2b96d90a89a"
 metafile = true
 
 [[files]]
