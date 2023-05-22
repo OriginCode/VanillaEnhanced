@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "60ab436fb292c5f4773d583622973b3c61f0abbb43c7f009b4016e028ffeb55b"
+hash = "49ec4b8de3c0cf75d9ea4f524cae7a8f30ce96604c6cf6c765d04154fcdddadc"
 metafile = true
 
 [[files]]
@@ -79,6 +79,11 @@ hash = "26ee7d916b16122b891d6f47cb2c51925b902eeee3f18f58cd84bc6b347527ce"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "55c14fd0cba0ae4478945420862cfdec970a5ab40b04a34ce9e3f94b9d721e38"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
 metafile = true
@@ -120,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "0c06b918cdc4c20a81973cbad7af65fe1d454af04bfcaab9084635d579c2ee27"
+hash = "839d2138218a331c0245098ca9ad3cf2ef5bdb1298b4e1957efab471d546b92f"
 metafile = true
 
 [[files]]
@@ -245,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "66fb59465e4efafda8fc31583f4349e3076f9698a8af2fece260f909ac56f167"
+hash = "4585e111bdcda9a7f074062508764e3bdffc2c6d1db9ef187318a48c0cb01351"
 metafile = true
 
 [[files]]
@@ -285,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7f2bf61fa3111617129fd6e4907fcab24a27a7ec27a56d1f9cc6e5078f41d2bd"
+hash = "7354c8d62fc1b738a0450d5f14de68df9c147bf2cc3f6c29cf7a9b3e4ee7b6c9"
 metafile = true
 
 [[files]]
@@ -345,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "a0d941f8165acf29b52cf0444700e04b228e0b8710bb17e8760d9de7fbb09fe1"
+hash = "a495c86a2fe4ddc04e2506d3f061a2a64e5f94395e2e271cb63f7316cdf31fd7"
 metafile = true
 
 [[files]]
@@ -360,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+hash = "87adb226c6e9c480155c0205bb0e6646bb85f5be16413bc555358df43bf41995"
 metafile = true
 
 [[files]]
@@ -370,12 +375,12 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
+hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "f403c771795282b22ded95a62cca193f0561ff3c4d7ca6803a5e4f53618c38cd"
+hash = "09298ccc1c998076abf78cb330dd80404ee2a48c5a2ce3203b653bda82915ced"
 metafile = true
 
 [[files]]
@@ -419,8 +424,18 @@ hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "c0f323ff5bfab41f040119b04532ca1e1e8732c7ea52f60227a0932aa8d448af"
+metafile = true
+
+[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "fbc810d69f635c23ddca338c706f6d0044fe609a716bd839d5af0c630d269ce2"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "352d2dd8efb08f8a6213c295a10259de61b4536f2afb1fd985ffcea47a55ec8b"
 metafile = true
 
 [[files]]
@@ -470,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "e1255efadee4f69cea3c1066d4d990137d84c7ba62e8b4ab8508e2b96d90a89a"
+hash = "6fdeef2f421de046fe114ba9bbed7f39922ebee47f69955af74eb1c9431657a5"
 metafile = true
 
 [[files]]
