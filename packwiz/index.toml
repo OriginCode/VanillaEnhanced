@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "73386e4a41baab1188f2c594ac9efad42ccbb3c02934d21cc86461b616121954"
+hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
@@ -61,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/beenfo.pw.toml"
 hash = "d993d09db7ef2c66dfbfc999e50a5b333b89d2745dd41e58aa06a28632f80f50"
+metafile = true
+
+[[files]]
+file = "mods/beer.pw.toml"
+hash = "0113ace057812dd0644b2347a398b9bde9ba239f0cac8d9cadc30575ebce982f"
 metafile = true
 
 [[files]]
@@ -130,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "160c3d857c4f40cc124f9e89f1fe436dd8babea23bdc9e4b096803deaeda9263"
+hash = "1ce6d6922564da4116840ce60204adc2d691873059367b09084f9de7e898b4b4"
 metafile = true
 
 [[files]]
@@ -145,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "3d41430a4cafca0796d63aacf7390d12f1389f1b019bbea5f202a05b23d09ce3"
+hash = "9268f1b067b6e83d6b11597db423c80b7b5af75d0828165f827aa0ace83ed8ae"
 metafile = true
 
 [[files]]
@@ -174,8 +179,8 @@ hash = "edf4d6024ba380cc5e3d308da2077a22288b03e9ac465000d604fa5df0241911"
 metafile = true
 
 [[files]]
-file = "mods/draggable-resource-packs.pw.toml"
-hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
+file = "mods/draggable-lists.pw.toml"
+hash = "6d699475c6723e066a6346f6d85b90a5cbc8adc3efe615e0dbcb6cded6ef9a57"
 metafile = true
 
 [[files]]
@@ -191,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/easiervillagertrading.pw.toml"
 hash = "3e1c777adc5463ff1d00842ada237e7ff5c858d79ab0b138cb7e10f8b7353079"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "d26a91a3a457dc46a9d492a1898ccb5f412b80dc093321150051b48da97794fc"
 metafile = true
 
 [[files]]
@@ -220,12 +230,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
+hash = "fb8d869693d3235ef75c600f277f57b810aa80ddd6ee2dad3a86cf0d0af230e1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
 metafile = true
 
 [[files]]
@@ -260,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "0ee9b87965de1e0b49a88109ff5c03290998d584e3124168c898c70f5fcc73a2"
+hash = "d6fc67988de6e57a17c931d45096c81c823265c228de387ce92a605790774365"
 metafile = true
 
 [[files]]
@@ -285,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "85b1bee4b87910cbc2fe71e5ee4d489d3a240f58698945b3bdb6d02d18fa75d4"
+hash = "7ad950f504cd260099c184b5e9a10e90cb78c1b4c0d7b4da29b6fb20baee2097"
 metafile = true
 
 [[files]]
@@ -414,6 +424,11 @@ hash = "05723068a1745bc41a87562915fa04582934fde82e61c64ccffec0e66731a0c8"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "4f366496cfcc860e1a4e3105bb44b756e58021537f891f3e3f11eb5b4282e7ca"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-resources.pw.toml"
 hash = "1d34d9d3997750b951077c044afa80aacad1c191f6b6989581170b7e108c9a58"
 metafile = true
@@ -425,12 +440,12 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "c0f323ff5bfab41f040119b04532ca1e1e8732c7ea52f60227a0932aa8d448af"
+hash = "9ada59dae64836137f116799f5e419c898b21dd339054e4454fc85d2c7aed926"
 metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "fbc810d69f635c23ddca338c706f6d0044fe609a716bd839d5af0c630d269ce2"
+hash = "d5c57abd79d69fac701ace887f13350c4c64ff6376114757e2ba0554f15085a7"
 metafile = true
 
 [[files]]
