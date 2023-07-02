@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
-hash = "689b482cd4bcf2250e171e4e5091082b4855a9bd260ef5fc228189ba09740a6d"
+hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
 
 [[files]]
@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.pw.toml"
-hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
+hash = "9f22660d287a6a3ded24f5df8f944972933f04651cb30c9acb2e62132f3ffcd2"
 metafile = true
 
 [[files]]
@@ -59,6 +59,11 @@ hash = "e1cb00f094495e57ee1083f811a482075caebebb51269b6374512bf02cacff1f"
 metafile = true
 
 [[files]]
+file = "mods/beenfo.pw.toml"
+hash = "36573ec78f4faa00770337200cddb801e61217392513913d15a36da0ed95edab"
+metafile = true
+
+[[files]]
 file = "mods/beer.pw.toml"
 hash = "f5470f442414284f09bf3a39a30c19afaeccb28a8fa30cf33b8a9ee22319b74d"
 metafile = true
@@ -69,8 +74,13 @@ hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
 
 [[files]]
+file = "mods/better-resource-pack-sorting.pw.toml"
+hash = "94b3367391063c77435e87fbf38cf934e35992fd36123a7bc65ce329234ae27a"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
-hash = "6e5cd4fdf4ca42638e20db525b1399cb3f80a862e4fbadb448229b07f4780807"
+hash = "8d3280ea80fed62e07bdeda49bb606bf69b51ee7cc80a5f7ae130a5a4c086b00"
 metafile = true
 
 [[files]]
@@ -91,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/brb.pw.toml"
+hash = "0bc3bfa76d528853466353a00ea3d59c035da7c86c1000533f0d0cf32148db00"
 metafile = true
 
 [[files]]
@@ -159,8 +174,18 @@ hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "6def5f269d3f69656592f78adceb1b4c94047e68f3a332b95a51ac78d35c3e75"
+metafile = true
+
+[[files]]
 file = "mods/durability101.pw.toml"
 hash = "990e42445b283e7bba1c32f81e3a0a005b034fabb3123c242b90f11a7a85bcc2"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.pw.toml"
+hash = "dd14faa78d5204f09aa6e2edc27953927f72c0ebb7e8deb81ba3fe4fa734b9f5"
 metafile = true
 
 [[files]]
@@ -170,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/easiervillagertrading.pw.toml"
-hash = "3e1c777adc5463ff1d00842ada237e7ff5c858d79ab0b138cb7e10f8b7353079"
+hash = "08a544f2cca66b70a13daae40268ee95a967f617c7f97670363065fb5fb06666"
 metafile = true
 
 [[files]]
@@ -181,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "d386dbb717f1d46d046a6ac1002cae1d985591bc99b84d4e34e37c6d6ff193a3"
 metafile = true
 
 [[files]]
@@ -200,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "32cff441dba71cee026356fe08147e289183532b7215071cdb0dd91af56aa643"
+hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
 metafile = true
 
 [[files]]
@@ -230,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "f9ac3135cbfed6f7dd40506f71fcbe4ede2aab70e92b2845e5af688cf91ed7cb"
+hash = "5945376058eb508f9a049134ed66dbc70c861d80d043441e03b10fa4338dc1e0"
 metafile = true
 
 [[files]]
@@ -240,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7e4f75370782118422e5f06cffb06c0c6da097434d5d90f3c53f6280b5ae89c8"
+hash = "866b21af781741c1b38b636b5ae3ae5703b7a513ab9d7a669beaaf6624116aba"
 metafile = true
 
 [[files]]
@@ -370,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/rbip.pw.toml"
-hash = "2ee7b17a817f7e8c2a3e1c5dcb36c351c9533760a26d71c40c50ec7cc071ed2e"
+hash = "c82b014f45b2fa7b3a2df60821f42669413b0af10cbaa84146151d4c58b6d4bd"
 metafile = true
 
 [[files]]
@@ -416,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/ugly-scoreboard-fix.pw.toml"
+hash = "a2b27d433818fe242ff5840babfa6837ad57b1337fda7648af08c07b99417d82"
 metafile = true
 
 [[files]]
