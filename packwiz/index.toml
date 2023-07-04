@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
+hash = "5eba39d9e5a05337908239be113ec4bc26b557d8bc9bf10e0c7d9528bcb71d4d"
 metafile = true
 
 [[files]]
@@ -214,6 +214,11 @@ hash = "29b4de1f971069e40d2ff22e58ee8a15dd11afbe301168e158dbf5cc49d74a9e"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "476d7497746313c8b4e52a90914e971c227d20b3238a7d34ae2b756681c89395"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
@@ -230,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fb8d869693d3235ef75c600f277f57b810aa80ddd6ee2dad3a86cf0d0af230e1"
+hash = "8549f8fdb7d2eb89173efd1f03d750e15d1d984c215d075e83ba59a8e115b5b9"
 metafile = true
 
 [[files]]
@@ -254,8 +259,18 @@ hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "678ecc9241860f54aa51acc300dcec18d96322bb593a2db6574e7de952d6038f"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "e4559bc9b01fdbb58a709ec6c7c70317a39eab36bbac9cb1f84e0d4e159a2031"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "5ac5d79a9464b3d0ae0a4497392cf6e46f92212590a740440d226a249fa53f4c"
 metafile = true
 
 [[files]]
@@ -270,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d6fc67988de6e57a17c931d45096c81c823265c228de387ce92a605790774365"
+hash = "066df28b2af1da58889f17f2ce90df173a498c426d2f41a183dff9c15b479e95"
 metafile = true
 
 [[files]]
@@ -326,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/merchant-markers.pw.toml"
+hash = "1f39051ec8f81145f85484e1ac4f597c5d2dcb51e5c026565194fc04cc95bb08"
 metafile = true
 
 [[files]]
@@ -410,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/rbip.pw.toml"
-hash = "7385d6eabb9e7293aebaedbb93d69dffe8c1b6d0ec96c1956e159b8b21cb5fcd"
+hash = "180a0070e1a462efa0b83101a4d63bd0d45cfb0152f72e546262fd11666294d2"
 metafile = true
 
 [[files]]
