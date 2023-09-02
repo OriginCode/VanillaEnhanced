@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "85c7c2011fe2da8c1fe86c0e0a770d003c58ec0bb1022231040b8d0cc59f6177"
+hash = "14b63d636f72364a63f76ca7cd35612a755fe3bf2148d6d67012895abeed7450"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a9a955be7b87637b8e748bf37f8c36a7b92e07d435d964d9a0f9a0c9e946f4b1"
+hash = "09cc84c8d459ab708ac281e47cf76c6cf19cefaed7084ec481334d37875cb500"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -419,6 +419,11 @@ hash = "0de96fcc01c934e434f2f31190816271e394a5659485bd1a1d384059b5e7d450"
 metafile = true
 
 [[files]]
+file = "mods/pipeblocker.pw.toml"
+hash = "3352e7e454ffc6c2771cd2d5c34e233f08c5a90e646c63ecd64ae3e82e6396b4"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "2ffa6237ed942f5734c20ba755ae86592004f977cb6e3e64c34ca19bd60690e2"
 metafile = true
@@ -440,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "f9815a16026ea189a2ac10f8af3e4dfe62592d89206e58d6372adebd77c0a172"
+hash = "bab7dad377c5cc8324f52c0ab02b4f8571883784f2d52c78785c48e27bc3bdb8"
 metafile = true
 
 [[files]]
@@ -465,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "fa2231ee490569e08db1888b0563bcf3bf3d48b7e4fc83d209564ce57bda3920"
+hash = "3901e91a8b0c002d27dd321d52d438c97dd4fed16e11929e97a00e24679a0737"
 metafile = true
 
 [[files]]
@@ -520,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "86f918910600ae5f60aad0a7ced933ba23d88f2889db57a547e76dbfe866c083"
+hash = "5e858df2ad65fa277910601e43f6f51ed2cf607fa44468243705a566a342f4bb"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Show Me Your Skin!"
-filename = "show-me-your-skin-1.6.10+1.19.4.jar"
+filename = "show-me-your-skin-1.6.11+1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bD7YqcA3/versions/vAaexHZm/show-me-your-skin-1.6.10%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/bD7YqcA3/versions/XKveJgXp/show-me-your-skin-1.6.11%2B1.19.4.jar"
 hash-format = "sha1"
-hash = "94c6ee5211b89f6cef49f739afb30c655c6bbdbd"
+hash = "1e6b8116388cba5feb218d499bb25e6b8400c328"
 
 [update]
 [update.modrinth]
 mod-id = "bD7YqcA3"
-version = "vAaexHZm"
+version = "XKveJgXp"
