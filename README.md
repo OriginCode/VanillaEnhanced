@@ -6,7 +6,7 @@ Home-grown fresh VanillaEnhanced modpack. With 100+ optimization and assistant F
 
 ## Notes
 
-- Minecraft 1.19 requires Java 17 or newer to run
+- Starting from 1.19, the game now requires Java 17 or newer to run
 - Latest `.mrpack` Modrinth modpack can be found at <https://factoria.origincode.me/OriginCode/vanillaenhanced/-/jobs>
 
 ## Update from an older version
