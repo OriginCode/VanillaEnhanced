@@ -268,11 +268,6 @@ hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-searchability.pw.toml"
-hash = "6c933ae5db12006b2535b52e7ee7110df5cfaa56db0c37f0867dbd22c5f68377"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "eba939fcdf3f35b56072cc8c9476c35def2aa7bdecfde6a945980c92ffdf7c9b"
 metafile = true
