@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "8d3280ea80fed62e07bdeda49bb606bf69b51ee7cc80a5f7ae130a5a4c086b00"
+hash = "a0868c851af5ff84f8086f61a58dad7f2b9d5b0a92d0133fab7200a6c9f92ca6"
 metafile = true
 
 [[files]]
@@ -138,11 +138,6 @@ hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
-file = "mods/capetweaks.pw.toml"
-hash = "40be8fedc25e8bd91b6096f1423047f7f5d7db33e5037cb3cf13cd6c593930a6"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "0159525d452d7e755045223330b3bfc0a3df5491c4a83beee9f00af0b68b8758"
 metafile = true
@@ -169,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
@@ -224,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b2501ec08296916d344df698d0542054e49eae3283d97df3c375c9ef3df93808"
+hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
 metafile = true
 
 [[files]]
@@ -244,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "45119a046ee1e893bed9ae1143e69e677816689379dcbba12151cdcf5a53a3e4"
+hash = "e1281e7858663cb1ef53f91e56005ea165f7d95473e12891db40f3266cf755e1"
 metafile = true
 
 [[files]]
@@ -289,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "36b3e3375a645a376264836683a508d7fa2e555fb55f173bb7fe4571ca15702f"
+hash = "3aeb6ef6af53a3e69fe5e99eaa318363417fa1bc18073e5219662c3535aaf80c"
 metafile = true
 
 [[files]]
@@ -339,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ca885ba80a295fe9729c9ef27e366911d8ec2467bcced404f08593ead37176b0"
+hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
 
 [[files]]
@@ -359,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c4b61d08a5bed2259cd941b520fda6df278973967d768f1a4be37f936c02278a"
+hash = "83fce03c94bb5497b8db8e44e51a74b5f80c1a141d03780a63272c5655db743a"
 metafile = true
 
 [[files]]
@@ -534,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
+hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
@@ -574,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
+hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
@@ -609,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "86de1e282fe4ca4ae873d6d4578b1bb8cb9dde8dc09ff0d5e04a33c32e20db04"
+hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
 metafile = true
 
 [[files]]
