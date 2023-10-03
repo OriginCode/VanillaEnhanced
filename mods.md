@@ -23,7 +23,6 @@
 - Blur (Fabric)
 - Borderless Mining
 - CIT Resewn
-- CapeTweaks
 - Capes
 - Chat Heads
 - Cherished Worlds
@@ -50,7 +49,6 @@
 - Emoji Type
 - Enhanced Attack Indicator
 - Enhanced Block Entities
-- Enhanced Searchability
 - Entity Texture Features
 - EntityCulling
 - Exordium
