@@ -17,9 +17,9 @@
     (sort (map get-mod-name mod-files) string<?))
 
 (define (generate-markdown-modlist mod-names [title "Mod List"])
-  (string-append "# " title "\n"
+  (string-append "# " title "\n\n"
                  (foldr (λ (mod-name acc)
-                          (string-append "\n- " mod-name acc))
+                          (string-append "- " mod-name "\n" acc))
                         ""
                         mod-names)))
 
