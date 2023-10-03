@@ -10,12 +10,11 @@
                        "./packwiz/mods/")
                    #:build? #t)))
 
+(define (get-mod-name mod-file)
+  (hash-ref (parse-toml (file->string mod-file)) 'name))
+
 (define (get-mod-names mod-files)
-  (let* ([mods (map file->string mod-files)]
-         [mod-hashes (map parse-toml mods)])
-    (sort (map (λ (mod-hash) (hash-ref mod-hash 'name))
-               mod-hashes)
-          string<?)))
+    (sort (map get-mod-name mod-files) string<?))
 
 (define (generate-markdown-modlist mod-names [title "Mod List"])
   (string-append "# " title "\n"
@@ -56,3 +55,4 @@
                  (output-path)))
 
 (main)
+
