@@ -383,6 +383,11 @@ hash = "cd9e975f57957445016f58556136ed293ad29919ac5735aaa587d5c5c251aac0"
 metafile = true
 
 [[files]]
+file = "mods/lazy-language-loader.pw.toml"
+hash = "cf8744a2896e9d00e777500b89da0f221e405e68df0fde5f95fce4f81ebd8175"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
