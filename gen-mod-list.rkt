@@ -14,7 +14,7 @@
   (hash-ref (parse-toml (file->string mod-file)) 'name))
 
 (define (get-mod-names mod-files)
-    (sort (map get-mod-name mod-files) string<?))
+  (sort (map get-mod-name mod-files) string<?))
 
 (define (generate-markdown-modlist mod-names [title "Mod List"])
   (string-append "# " title "\n\n"
