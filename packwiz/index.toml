@@ -303,11 +303,6 @@ hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
@@ -370,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
