@@ -1,13 +1,13 @@
 name = "NBT Tooltip"
-filename = "nbttooltip-1.7.1.jar"
+filename = "nbttooltip-1.7.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/G0GDoyVf/versions/TzVW5LLN/nbttooltip-1.7.1.jar"
+url = "https://cdn.modrinth.com/data/G0GDoyVf/versions/dPnIKDCb/nbttooltip-1.7.2.jar"
 hash-format = "sha1"
-hash = "160e549b1382e035c5936b6465759fba4b8ddc81"
+hash = "78d9fc823a35fd1751a6752f78d01430bdfcf5e4"
 
 [update]
 [update.modrinth]
 mod-id = "G0GDoyVf"
-version = "TzVW5LLN"
+version = "dPnIKDCb"
