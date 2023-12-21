@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "5636f58a791fd425639a8fc45b920d12959838f6e461bc55795eabe266bab53b"
+hash = "9bc11983cc086e4e8123050788138043689f6c7a1af03d048c8830a165a1921e"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "71f9ac8b4941f937383606fc7f3661c4d895f34f37315b86a23a0d0a9b599d39"
+hash = "ff7518737caa922deb64b0d8f6562566d8389762015cadde17c3a5b0654eae05"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
+hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f6d72dfe331d7f06e5b3471e4dba2675d59b8e15950a41268897f26230fdf795"
+hash = "b9cd400ba7e738f6c5e0d4b596d1c9a2b6348bd4f2579c9df4cc865e138f2b59"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/emoji-type.pw.toml"
-hash = "4e313388fa09323cc73d27bb69cbfedfc963fd3e5ebb7c5eac845c03eda5aeba"
+hash = "e0024a1ca07a6a4c44eb815049e9a69b89bac1626f5b8ad644421192a158de4a"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0837f5b88d03fc4fb4a1da6ff18b2b265565089f5699fc98993fd5262e472e00"
+hash = "0243e5340ac8a37ec903b58411be61e4dcab50468ddca99827bba49acbbec190"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1b8b8a8249a2b1c00a1aa74fcde9e368cbb18355d89c201998ba0604d604e715"
+hash = "ba4525ab08293cfb3befbfb0ad56e6b25d60e3e8aca92cfe55478d5a450e599f"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
+hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "a43562b6ac32b70cbd98d6b31e21dffd512a2ae81825c81307a39d911dd36baa"
+hash = "a20c1686761db7bb15ef63572ede9d721bc436585515220d49e426552977d690"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "9d9c85f51272791deb130d1a3bfa4654485e089aa3224c924725b31d25832446"
+hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "63bd12c34c206672ebba460d6d5845fe7ce4fbb86396e8da22aacd1af8d52d22"
+hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]
@@ -609,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-preview.pw.toml"
-hash = "40c4d4bfc23a9197c5ab8e9cf0f2b707f4a9fa6837d1699ab6ae2d154b5e35a5"
+hash = "9e874dc40bb9a14704c1776b1ef2efc7f82a52bf37f8f37d68b9301112778541"
 metafile = true
 
 [[files]]
