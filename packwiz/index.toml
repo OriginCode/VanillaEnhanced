@@ -18,7 +18,7 @@ hash = "4c523e4e904770547f6163adac77e72c6ce3f282b9c81e274ad83df2bbb3755d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+hash = "839d9c670b90adc76e29b0e57eab87c2cc7aa6109c4adb0e119ec60b164a833b"
 metafile = true
 
 [[files]]
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "9bc11983cc086e4e8123050788138043689f6c7a1af03d048c8830a165a1921e"
+hash = "60cb0d61b96d01cfc30dcbd38b43f74bc4a139bb0e57877afd5637eb5527f24c"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/brb.pw.toml"
-hash = "9494b958269299a6cfcf7f9430d01ab83b0d3815eddd4bc33b260ba4687ce78e"
+hash = "9684a8bd884d14089563abed3f07635f21226630a5222d530d8d171375e0ac65"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
+hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b9cd400ba7e738f6c5e0d4b596d1c9a2b6348bd4f2579c9df4cc865e138f2b59"
+hash = "bc8ad6b422fead0c5798e670db44992fc8646e0bb2eba9861c28a72c6d6940c3"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0243e5340ac8a37ec903b58411be61e4dcab50468ddca99827bba49acbbec190"
+hash = "18367cc70788ea339b4cb15a1f1437642467dfcf547235a982d821c2c273926e"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "ba4525ab08293cfb3befbfb0ad56e6b25d60e3e8aca92cfe55478d5a450e599f"
+hash = "6114cad9f4130d41b804e2e8d8a37ab02d980016d7ff1ff7679586e2ce618c34"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]

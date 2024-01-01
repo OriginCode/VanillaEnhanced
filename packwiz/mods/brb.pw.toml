@@ -3,11 +3,11 @@ filename = "brb-1.10.0+1.20.0-1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vWIaVOTE/versions/FVxTX90Y/brb-1.10.0%2B1.20.0-1.jar"
+url = "https://cdn.modrinth.com/data/vWIaVOTE/versions/i7QIFc9x/brb-1.10.0%2B1.20.0-1.jar"
 hash-format = "sha1"
-hash = "9f98fa8bcf21b24cd7a02c60abd2a8b8a1a298ae"
+hash = "05566cc9fcda6d0eaa4e50adb23ee4d5e97e035f"
 
 [update]
 [update.modrinth]
 mod-id = "vWIaVOTE"
-version = "FVxTX90Y"
+version = "i7QIFc9x"
