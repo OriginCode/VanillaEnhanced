@@ -282,6 +282,11 @@ hash = "6114cad9f4130d41b804e2e8d8a37ab02d980016d7ff1ff7679586e2ce618c34"
 metafile = true
 
 [[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "32aac801838ce93ccca60ec99f04293546985c8bc2e2d19fba46953e66a3f53e"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
