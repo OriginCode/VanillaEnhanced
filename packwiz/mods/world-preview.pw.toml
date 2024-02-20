@@ -1,13 +1,13 @@
 name = "World Preview"
-filename = "world_preview-fabric-1.20.1-1.1.5.jar"
+filename = "world_preview-fabric-1.20.1-1.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WtfpyicL/versions/9Xsy36AH/world_preview-fabric-1.20.1-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/WtfpyicL/versions/lSCY5eo1/world_preview-fabric-1.20.1-1.2.1.jar"
 hash-format = "sha1"
-hash = "8feb240e0adb29a0e536addfbbcc68d60445f59e"
+hash = "a32faca7599c6f4d9e3d40177b66391a1ad2243d"
 
 [update]
 [update.modrinth]
 mod-id = "WtfpyicL"
-version = "9Xsy36AH"
+version = "lSCY5eo1"
