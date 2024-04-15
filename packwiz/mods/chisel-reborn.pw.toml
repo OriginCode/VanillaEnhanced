@@ -1,0 +1,13 @@
+name = "Chisel Reborn"
+filename = "chisel-1.6.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/BYCBchhy/chisel-1.6.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "858433cf041cf092f8c90b97a406f6ae928c6e02"
+
+[update]
+[update.modrinth]
+mod-id = "4KWv7wbN"
+version = "BYCBchhy"
