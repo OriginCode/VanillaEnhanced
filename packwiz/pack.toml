@@ -1,12 +1,12 @@
 name = "VanillaEnhanced"
 author = "OriginCode"
-version = "1.20.1-20240514"
+version = "1.20.1-20240604"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e1533e8f3264bc4ea37b898eb333a0bef8e5d7578995bafb5e3e112b138e50b2"
+hash = "effb3a2b1fe2291209aa33eda7de7ac3f81072abf45c720196487eb240d8c53c"
 
 [versions]
 fabric = "0.15.11"
