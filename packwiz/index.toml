@@ -191,6 +191,11 @@ hash = "e1622902dab5e0928d59065d1bc4efb7bc61db45578183c905fe4e53b87f3526"
 metafile = true
 
 [[files]]
+file = "mods/custom-lan.pw.toml"
+hash = "24b118190559cda6fbd2158825c78ad8247b38ad2812294e86f42651a6022468"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
