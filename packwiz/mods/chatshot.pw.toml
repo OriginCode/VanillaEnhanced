@@ -1,0 +1,13 @@
+name = "ChatShot"
+filename = "ChatShot (1.21.x-fabric)-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X2Zy7Oi6/versions/ues9aAH3/ChatShot%20%281.21.x-fabric%29-1.0.1.jar"
+hash-format = "sha1"
+hash = "42f7d65e0512139a6a2df5bccb9653a9d5f05068"
+
+[update]
+[update.modrinth]
+mod-id = "X2Zy7Oi6"
+version = "ues9aAH3"

@@ -46,13 +46,18 @@ hash = "3efb5df489cdac5c07964f7d2d6bcb8f0464f76e55b4397ed85f9e378fa1a784"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "529f85e7837b766acfd4031d3563d5d96f4d0a83f00dd5328a1b943abda3f8b9"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "dce712ce4d2206966a61db6c3f261897975637464f0becd33fbd1e4ddae47c5f"
+hash = "332b3dcd4f72c3c122e8201bfbb76a78a329dc4ffe1056bad6096330ba07d765"
 metafile = true
 
 [[files]]
@@ -96,6 +101,11 @@ hash = "0355b81b049cfd99a5329a9c8a9fad50d2a3e2069276c1cfcc3a07eb95cf3b31"
 metafile = true
 
 [[files]]
+file = "mods/chatshot.pw.toml"
+hash = "a1920b8364ba39e08c549714f794e6ca6ddc37bdf46c6d69e5d963b04c5881db"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "48fa9a6af8274d7ef20978f7715789244f56364477bb5af663ff710669561ef9"
 metafile = true
@@ -133,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "368617983a769fb6819bc68d25a4d0f875977d63e9d2d3ff10389de7adfe2fe1"
-metafile = true
-
-[[files]]
-file = "mods/dynamiccrosshair.pw.toml"
-hash = "57d19c1ab42819779c68f4bcdfa0ba4dbe93f6d4a624261b2c5ced78d841693a"
 metafile = true
 
 [[files]]
@@ -237,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "6a4644cd0b667fff57753af871fd9892cdf3ed11acb6559c59d2320cd6c40c4f"
+hash = "3c46ae1d6a20986e8a65e2f0feaadc7022395c6244a2fb6e7703eb2cf21f830b"
 metafile = true
 
 [[files]]
@@ -302,12 +307,17 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "365313e20f6fd244d13667b352d8aa16312a609c7247b7472771cf4555908869"
+hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "b3c7151e31da9752a8ef153f445919eae27e5101e99e42d242155abd2d810d3f"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
@@ -338,6 +348,16 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "94a04d1f3e30ce411ae630d33fe386eaeedf4153b3f6b5985c2774b111455278"
+metafile = true
+
+[[files]]
+file = "mods/restore-chat-links.pw.toml"
+hash = "8160d85daf2d654ccb1e9e7fbed96b54392b094e29f87e419cc7141449b9fca8"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "084bc8025cd2898cf6d46f984c32edeb18da9b36743f2b35b53da6d3b025e3b1"
 metafile = true
 
 [[files]]
