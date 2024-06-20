@@ -111,6 +111,11 @@ hash = "a1920b8364ba39e08c549714f794e6ca6ddc37bdf46c6d69e5d963b04c5881db"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "4eb6403f282912e0dcdfbced84c656ac8f89771b82915839080001d2c52ade39"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "48fa9a6af8274d7ef20978f7715789244f56364477bb5af663ff710669561ef9"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "368617983a769fb6819bc68d25a4d0f875977d63e9d2d3ff10389de7adfe2fe1"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "17e8390283fd3f6a959e8c6ed234d82ffe218b21cfe2d1576889a626b45f3f63"
 metafile = true
 
 [[files]]
@@ -218,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/feytweaks.pw.toml"
+hash = "1e4034d327b8fde6937692ea0bfd91c571b27669624c1b429fe349415233b72f"
 metafile = true
 
 [[files]]
@@ -287,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b4ca030148c5e02ee1ce5039ac6f17fd6d727639a082f59934968abceaa1586c"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
 
 [[files]]
@@ -447,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b15ae18c9a99153df8ee3ab0c171c01003a6b5e565047c5fa2762dd66cb22340"
+hash = "be94397340f28bff0babb5691a8e30b8fb47ca595d6a9c450a3d7f1e3ad4c47d"
 metafile = true
 
 [[files]]
