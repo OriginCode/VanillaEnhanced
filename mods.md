@@ -5,36 +5,53 @@
 - AppleSkin
 - Architectury API
 - Auth Me
+- BadOptimizations
 - Balm
+- Better Command Block UI
 - Better Statistics Screen
 - BetterF3
+- Block Meter
+- Blur (Fabric)
 - CICADA
 - CalcMod
 - Capes
 - Chat Heads
+- ChatShot
+- Cherished Worlds
 - Cloth Config API
 - CompleteConfig
 - Concurrent Chunk Management Engine (Fabric)
+- Continuity
+- Controlling
 - Crafting Tweaks
+- Debugify
 - Detail Armor Bar
 - Don't Clear Chat History
+- Dynamic Crosshair
 - Dynamic FPS
 - EMI
 - EasierVillagerTrading
 - Emoji Type
+- Enhanced Block Entities
 - Entity Texture Features
 - EntityCulling
 - Fabric API
 - Fabric Language Kotlin
+- FabricSkyboxes
+- Fabrishot
 - FerriteCore
+- FeyTweaks
 - Forge Config API Port
 - Gamma Utils
 - Held Item Info
 - ImmediatelyFast
+- Indium
 - Inventory Profiles Next
 - Iris Shaders
+- JourneyMap
 - Ksyxis
 - Language Reload
+- Lighty
 - Lithium
 - Log Cleaner
 - Map Tooltip
@@ -42,22 +59,33 @@
 - Mixin Conflict Helper
 - MixinTrace
 - Mod Menu
+- Model Gap Fix
+- ModernFix
 - MoreChatHistory
+- No Chat Reports
 - OptiGUI
 - PipeBlocker
 - Puzzle
 - Reese's Sodium Options
+- Remove Reloading Screen
+- Resourcify
+- Restore Chat Links
 - Screenshot to Clipboard
 - Searchables
+- Server Pinger Fixer
 - Skip Transitions
+- Smooth Scrolling Refurbished
 - Sodium
 - Sodium Extra
 - Status Effect Bars
+- Suggestion Tweaker
 - TCDCommons API
 - ToolTipFix
 - Translucency Fix
+- ViaFabricPlus
 - WTHIT
 - YetAnotherConfigLib
+- Zoomify
 - [EMF] Entity Model Features
 - bad packets
 - lazy-language-loader
