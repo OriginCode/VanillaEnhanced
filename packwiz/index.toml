@@ -76,13 +76,18 @@ hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
 metafile = true
 
 [[files]]
+file = "mods/blockmeter.pw.toml"
+hash = "223a955b1adb55c2d8f147dfb8f8a5bc16f13f97efa591925a5ca70c42623c2f"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "c8af4c8bd0a07e4eef4d9c2ad3756b2ca2f8d9ed84e76608626096a9309341dc"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3374fd0790ec7c1a3f2119764830988f9194732b19e27a416c0f5dc7919b8a1c"
+hash = "b488580fb9fc59ad54b8ebd7b742aa98d2063ed12b75b624a6b6f36b40b02005"
 metafile = true
 
 [[files]]
@@ -126,6 +131,11 @@ hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "45b274a21c31e0150f8984479ade9ad970d6dea8af8b65109ac711d946817568"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "a75b0f9b27576022f8cdb308507a5566427ea308e352b53fdb87ce552a123d1b"
 metafile = true
@@ -133,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/dcch.pw.toml"
 hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
 metafile = true
 
 [[files]]
@@ -242,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "3c46ae1d6a20986e8a65e2f0feaadc7022395c6244a2fb6e7703eb2cf21f830b"
+hash = "1f045fb0fb1447bd03ffb377c044101dbac904a079f3489aa943e6ef58663fd6"
 metafile = true
 
 [[files]]
@@ -301,8 +316,13 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "edebf3f514e6ae422c890a47f30340d21fbf51b4362f5d902047bd4263d9a9ee"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "191874e7f32413e363fb002b721061b5ed885896e38974738a4f6faf080668de"
+hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
 metafile = true
 
 [[files]]
@@ -418,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/translucencyfix.pw.toml"
 hash = "fce2cb371986196fafa6cd6a4775fcc24705c3d1a2d9f6b0d3169cb67f8db259"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "7bd49099f287d961ab3a6f1de1ad9e08052f4aadf65536946119aadd6c11acff"
 metafile = true
 
 [[files]]
