@@ -61,8 +61,13 @@ hash = "332b3dcd4f72c3c122e8201bfbb76a78a329dc4ffe1056bad6096330ba07d765"
 metafile = true
 
 [[files]]
+file = "mods/better-highlighting.pw.toml"
+hash = "ccd83d8d341f0abac7703a987fd054f89028e2593a3cc4c36f7b08aaeee38012"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3eac250a5bf00ba69b40c88c04e5522260d0cb83ccc0ef7fb0b495acb3651914"
+hash = "319a2560e77031c2f03251b8a56b58d11015f64f7ec414a91e7d27e7f5e5235c"
 metafile = true
 
 [[files]]
@@ -162,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "368617983a769fb6819bc68d25a4d0f875977d63e9d2d3ff10389de7adfe2fe1"
+hash = "53262ac9ab485f8fe3fa2766045a8562149ce4274b1dde9e6529ae7a1a850ec8"
 metafile = true
 
 [[files]]
@@ -272,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "1f045fb0fb1447bd03ffb377c044101dbac904a079f3489aa943e6ef58663fd6"
+hash = "4dd64088a55b19cd32f6d821035473f921f50347258581df727e9cda274c5671"
 metafile = true
 
 [[files]]
@@ -342,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
@@ -442,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "cf9a5ab75ecff8efbb84f083bbc4cf8d5008398584924c53374bb314b5853bb7"
+hash = "39f24b5ecf6f946f218489dadf5f907df2ae87b4b844c003b3e3b423de8b1ca2"
 metafile = true
 
 [[files]]
