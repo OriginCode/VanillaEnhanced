@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "b66846fce53ac2d9edbe8f2c8d4cc85110c4a4589c0cf62901bf2189ce5a896d"
+hash = "b9b2668293926113e46427173cba23dcdf5b8c8a38e8f6643e110ca0de8f9c86"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "db08142f6d46895c5363562a4987d2d382cf10b2b917d6143efb43feaa1032be"
+hash = "159ed0c75a50573627913dfd08b27728f9f7918ea007f90b3843c2c075818ed8"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "de858d34871042c79ee2a664582c1be5afee9421a870038f8cbeba520d406181"
+hash = "a0f4274b2a1be4b483816520eecb0f59ee0b8da8414b7aa95bfdcec5c54c0712"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "515494490fe23d76d26b544cb1ae46dfaeb4662c11ea543d09fdded6c486f649"
+hash = "bd026bd6a8e0b7bd8dc6802c733d09775eead2ad40c8f243917facfcd2e33e29"
 metafile = true
 
 [[files]]
@@ -286,6 +286,11 @@ hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "1f26b12310a739b9983d7f13aad49ffab2d723bdedfe58c2ef8b683e00d99521"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "7eccda045631fcacd64fde6a18d9f5471df3ba05b344b21c7b20704395037388"
 metafile = true
@@ -331,6 +336,11 @@ hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "b796c162a77e99293fb3ce9386ea2c83de0441ec6e85b3d1112cd8aab0625678"
+metafile = true
+
+[[files]]
 file = "mods/map-tooltip.pw.toml"
 hash = "7903d3643dbbb226096f732adc21013e24f7fddf205e1163c47df1705e1cefa2"
 metafile = true
@@ -338,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "c509944573030f94efebfaa5c5d63e2cabd0ab8eb8ca9be91620c71bcc464548"
 metafile = true
 
 [[files]]
@@ -357,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
+hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
 metafile = true
 
 [[files]]
@@ -371,6 +386,11 @@ hash = "b3c7151e31da9752a8ef153f445919eae27e5101e99e42d242155abd2d810d3f"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
+metafile = true
+
+[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "59fdcf760c54375cd57f45346c6510773dfac5d846abea3def8a22b85b1f4fc2"
 metafile = true
@@ -378,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
 metafile = true
 
 [[files]]
@@ -477,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "39f24b5ecf6f946f218489dadf5f907df2ae87b4b844c003b3e3b423de8b1ca2"
+hash = "0445f8d6e9e3d983b418a24a655e644f067e7fabcb2af9d4366e93675829c288"
 metafile = true
 
 [[files]]
