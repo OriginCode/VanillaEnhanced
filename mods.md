@@ -11,7 +11,6 @@
 - Auth Me
 - Balm
 - Beenfo
-- Better Beds
 - Better Mount HUD
 - Better Ping Display [Fabric]
 - Better Recipe Book
@@ -22,7 +21,9 @@
 - Block Meter
 - Blur (Fabric)
 - Borderless Mining
+- CICADA
 - CIT Resewn
+- CalcMod
 - Capes
 - Chat Heads
 - Cherished Worlds
@@ -32,6 +33,7 @@
 - Continuity
 - Controlling
 - Crafting Tweaks
+- Custom LAN
 - DashLoader
 - DeathLog
 - Debugify
@@ -51,13 +53,14 @@
 - Enhanced Block Entities
 - Entity Texture Features
 - EntityCulling
+- Equipment Compare
 - Exordium
 - Fabric API
 - Fabric Language Kotlin
 - Fabrishot
 - FastQuit
-- Fastload
 - FerriteCore
+- FeyTweaks
 - Forge Config API Port
 - Gamma Utils
 - Held Item Info
@@ -66,8 +69,10 @@
 - Indium
 - Inventory Profiles Next
 - Iris Shaders
+- Item Highlighter
 - JourneyMap
 - Krypton
+- Ksyxis
 - LambDynamicLights
 - Language Reload
 - LazyDFU
@@ -98,6 +103,7 @@
 - Raised
 - Recipe Book is Pain
 - Reese's Sodium Options
+- ReplayMod
 - Screenshot to Clipboard
 - Searchables
 - Show Me Your Skin!
@@ -114,9 +120,11 @@
 - Ugly Scoreboard Fix
 - ViaFabricPlus
 - WTHIT
+- World Preview
 - YetAnotherConfigLib
 - Zoomify
 - [EMF] Entity Model Features
 - bad packets
+- lazy-language-loader
 - libIPN
 - oωo (owo-lib)
