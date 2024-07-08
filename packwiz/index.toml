@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "29d7f33e4792af33ee7b4e090280b6d3de5ed4b3d7f8d235c8cac63c5efe383b"
+hash = "76e2e71fa71901cd1bf6875a5a4ceae9c81d53e18b3da82c5c011bfdaecacf4a"
 metafile = true
 
 [[files]]
@@ -166,6 +166,11 @@ hash = "a75b0f9b27576022f8cdb308507a5566427ea308e352b53fdb87ce552a123d1b"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "7494ae8e888e32baf72312266fdf53419c5f3b52908fde66dc0a160cdbed4e2c"
+metafile = true
+
+[[files]]
 file = "mods/dcch.pw.toml"
 hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true
@@ -258,6 +263,16 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "fb9771f28f1fb92ff6b6e049ce18c458f679351a782143c18407fba8546d066e"
+metafile = true
+
+[[files]]
+file = "mods/fadeless.pw.toml"
+hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "0fc84d517bba8e458d268ef8472c97b83dde77e53b9f080444e4b728b3775faa"
 metafile = true
 
 [[files]]
@@ -528,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "563199dd7474844a71797be5114c798df3ded2d7bc0c9d384d9fd4aaa1b831b9"
+metafile = true
+
+[[files]]
+file = "mods/statuseffecttimer.pw.toml"
+hash = "71d54dc53ab4b96ff51a97a211dbda8256ad443719f123ce7d16708ca1debb80"
 metafile = true
 
 [[files]]
