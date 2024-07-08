@@ -1,0 +1,13 @@
+name = "Enhanced Attack Indicator"
+filename = "enhanced_attack_indicator-1.0.4+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eTy17BBS/versions/h615hZwz/enhanced_attack_indicator-1.0.4%2B1.21.jar"
+hash-format = "sha1"
+hash = "7b1a091c3c369cae673a37e21197289a103e8b58"
+
+[update]
+[update.modrinth]
+mod-id = "eTy17BBS"
+version = "h615hZwz"
