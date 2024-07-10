@@ -38,7 +38,7 @@
          [res (response-json
                (get (format "https://api.modrinth.com/v2/project/~a/version"
                             mod-id)))])
-    (if (find-modrinth-game-version target loader res) filename #f)))
+    (and (find-modrinth-game-version target loader res) filename)))
 
 (define (check-update-curseforge filename ids target loader)
   (let* ([project-id (hash-ref ids 'project-id)]
@@ -51,12 +51,11 @@
                  "$2a$10$crl9R.EvJCxJfXPrsqrDOOgvlfv1uhDv4mY2USrkPs6leYVde2AC."
                  'Accept
                  "application/json")))])
-    (if (find-curseforge-game-version target
+    (and (find-curseforge-game-version target
                                       loader
                                       (hash-ref (hash-ref res 'data)
                                                 'latestFiles))
-        filename
-        #f)))
+        filename)))
 
 ;; CLI
 (require racket/cmdline)
@@ -64,6 +63,7 @@
 (define working-directory (make-parameter "./disabled_mods"))
 (define target-version (make-parameter "1.21"))
 (define loader-name (make-parameter "fabric"))
+(define workers-num (make-parameter 16))
 
 (define cli-parser
   (command-line
@@ -73,17 +73,34 @@
                 "Set working directory"
                 (working-directory workdir)]
    [("-t" "--target") target "Set target version" (target-version target)]
-   [("-l" "--loader") loader "Set loader" (loader-name loader)]))
+   [("-l" "--loader") loader "Set loader" (loader-name loader)]
+   [("-j" "--workers")
+    workers
+    "Set number of threads"
+    (workers-num (string->number workers))]))
 
 (define (main)
-  (for-each (λ (filename-mod)
-              (let ([result (check-update (car filename-mod)
-                                          (cdr filename-mod)
-                                          (target-version)
-                                          (loader-name))])
-                (when result
-                  (displayln result))))
-            (map (λ (path) (cons (file-name-from-path path) (file->mod path)))
-                 (list-mod-files (working-directory)))))
+  (let* ([work-channel (make-channel)]
+         [make-worker
+          (λ ()
+            (thread (λ ()
+                      (let loop ()
+                        (let ([filename-mod (channel-get work-channel)])
+                          (when filename-mod
+                            (let
+                              ([result (check-update (car filename-mod)
+                                            (cdr filename-mod)
+                                            (target-version)
+                                            (loader-name))])
+			      (when result (displayln result))
+                              (loop))))))))]
+         [worker-threads (for/list ([i (in-range 1 (+ (workers-num) 1))])
+                           (make-worker))]
+         [filename-mods
+          (map (λ (path) (cons (file-name-from-path path) (file->mod path)))
+               (list-mod-files (working-directory)))])
+    (for-each (curry channel-put work-channel)
+              (append filename-mods (make-list (workers-num) #f)))
+    (for-each thread-wait worker-threads)))
 
 (main)
