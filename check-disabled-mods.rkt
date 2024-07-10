@@ -10,22 +10,18 @@
 (define (file->mod mod-file)
   (parse-toml (file->string mod-file)))
 
-(define (modrinth-game-version-assoc target loader hs)
-  (if (null? hs)
-      #f
-      (if (and (member target (hash-ref (car hs) 'game_versions))
-               (member loader (hash-ref (car hs) 'loaders)))
-          (car hs)
-          (modrinth-game-version-assoc target loader (cdr hs)))))
+(define (find-modrinth-game-version target loader hs)
+  (findf (λ (arg)
+           (and (member target (hash-ref arg 'game_versions))
+                (member loader (hash-ref arg 'loaders))))
+         hs))
 
-(define (curseforge-game-version-assoc target loader hs)
-  (if (null? hs)
-      #f
-      (if (and (member target (hash-ref (car hs) 'gameVersions))
-               (member (string-titlecase loader)
-                       (hash-ref (car hs) 'gameVersions)))
-          (car hs)
-          (curseforge-game-version-assoc target loader (cdr hs)))))
+(define (find-curseforge-game-version target loader hs)
+  (findf (λ (arg)
+           (and (member target (hash-ref arg 'gameVersions))
+                (member (string-titlecase loader)
+                        (hash-ref arg 'gameVersions))))
+         hs))
 
 (define (check-update filename mod target loader)
   (let* ([update (hash-ref mod 'update)]
@@ -42,8 +38,7 @@
          [res (response-json
                (get (format "https://api.modrinth.com/v2/project/~a/version"
                             mod-id)))])
-    (when (modrinth-game-version-assoc target loader res)
-      (displayln filename))))
+    (if (find-modrinth-game-version target loader res) filename #f)))
 
 (define (check-update-curseforge filename ids target loader)
   (let* ([project-id (hash-ref ids 'project-id)]
@@ -56,11 +51,12 @@
                  "$2a$10$crl9R.EvJCxJfXPrsqrDOOgvlfv1uhDv4mY2USrkPs6leYVde2AC."
                  'Accept
                  "application/json")))])
-    (when (curseforge-game-version-assoc target
-                                         loader
-                                         (hash-ref (hash-ref res 'data)
-                                                   'latestFiles))
-      (displayln filename))))
+    (if (find-curseforge-game-version target
+                                      loader
+                                      (hash-ref (hash-ref res 'data)
+                                                'latestFiles))
+        filename
+        #f)))
 
 ;; CLI
 (require racket/cmdline)
@@ -71,7 +67,7 @@
 
 (define cli-parser
   (command-line
-   #:program "Generate Mod Name List for Packwiz"
+   #:program "Check updates with target version and loader for disabled mods"
    #:once-each [("-w" "--workdir")
                 workdir
                 "Set working directory"
@@ -80,8 +76,13 @@
    [("-l" "--loader") loader "Set loader" (loader-name loader)]))
 
 (define (main)
-  (for-each (λ (mod)
-              (check-update (car mod) (cdr mod) (target-version) (loader-name)))
+  (for-each (λ (filename-mod)
+              (let ([result (check-update (car filename-mod)
+                                          (cdr filename-mod)
+                                          (target-version)
+                                          (loader-name))])
+                (when result
+                  (displayln result))))
             (map (λ (path) (cons (file-name-from-path path) (file->mod path)))
                  (list-mod-files (working-directory)))))
 
