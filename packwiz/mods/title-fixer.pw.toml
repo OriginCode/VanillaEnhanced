@@ -1,0 +1,13 @@
+name = "Title Fixer"
+filename = "titlefixer-1.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8zYE8DiW/versions/X7HwwHOV/titlefixer-1.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "f45bc954e02a87c821ca2971ab88628ec5c2dc74"
+
+[update]
+[update.modrinth]
+mod-id = "8zYE8DiW"
+version = "X7HwwHOV"

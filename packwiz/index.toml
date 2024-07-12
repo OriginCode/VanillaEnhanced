@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "11db7dff7557691276a92a874a86534706147cf8723f4281c9762a56e13a4e2d"
+hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "76e2e71fa71901cd1bf6875a5a4ceae9c81d53e18b3da82c5c011bfdaecacf4a"
+hash = "1ab4fc35ccc897523eaf56d88dbd05eb86dc726396906164fab3337c60a29a31"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "4eb6403f282912e0dcdfbced84c656ac8f89771b82915839080001d2c52ade39"
+hash = "815ddff3eed8fa1a0b1babc437019c55aeb9d090e3055cf02504038f835543e9"
 metafile = true
 
 [[files]]
@@ -168,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "7494ae8e888e32baf72312266fdf53419c5f3b52908fde66dc0a160cdbed4e2c"
+metafile = true
+
+[[files]]
+file = "mods/custom-lan.pw.toml"
+hash = "e3caa3d3dc188df1fb5a65167464a19864b75fafa874b6cf10d3dae2e9fa8d02"
 metafile = true
 
 [[files]]
@@ -327,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "4803f69d7d9692deec5fa9029e692fce5addc4761c32c1adbe442bbb2873cf51"
+hash = "07ba8d1424c0b5602063babac2104b33515c68c420c251e1643dd191596b7b0c"
 metafile = true
 
 [[files]]
@@ -392,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "dd8f52cad367b71883c6bd0fce3678c81d434195bdbe8e5ea133e743abfdee31"
+hash = "3de161856d88b7544b4df9d499e3e2f5da990742d6299d5dc1ae740276ca0dc5"
 metafile = true
 
 [[files]]
@@ -412,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5fbbac1c793dc2c4d1068111f6677125c1c8429657d65427da75720ec22942b5"
+hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
 metafile = true
 
 [[files]]
@@ -472,12 +477,17 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9f3da2cd4becbc9bb60d508749a4fb97a5959728b4ad781a26f68023cfec7eaa"
+hash = "16d7df11c9e24665fa8606107b3f30784b3741f7c6e1580311b4240edb029574"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "c99ea25a5698ba5d286cc5df09d10fb5737f955981776694519a5ccd43119f58"
 metafile = true
 
 [[files]]
@@ -562,7 +572,12 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "0445f8d6e9e3d983b418a24a655e644f067e7fabcb2af9d4366e93675829c288"
+hash = "2252104afddb9f597d4e3daacc780506b3bb693a514ca24bba63527e45629f1b"
+metafile = true
+
+[[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "1f9134dc8e8fa8395634f11371429298074773371c7e5562dd5152530d35a852"
 metafile = true
 
 [[files]]

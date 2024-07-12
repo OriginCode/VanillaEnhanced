@@ -8,6 +8,10 @@
 - BadOptimizations
 - Balm
 - Better Command Block UI
+- Better Highlighting
+- Better Mount HUD
+- Better Ping Display [Fabric]
+- Better Recipe Book
 - Better Statistics Screen
 - BetterF3
 - Block Meter
@@ -24,14 +28,19 @@
 - Continuity
 - Controlling
 - Crafting Tweaks
+- Cubes Without Borders
+- Custom LAN
+- DeathLog
 - Debugify
 - Detail Armor Bar
 - Don't Clear Chat History
+- Durability101
 - Dynamic Crosshair
 - Dynamic FPS
 - EMI
 - EasierVillagerTrading
 - Emoji Type
+- Enhanced Attack Indicator
 - Enhanced Block Entities
 - Entity Texture Features
 - EntityCulling
@@ -39,6 +48,7 @@
 - Fabric Language Kotlin
 - FabricSkyboxes
 - Fabrishot
+- Fadeless
 - FerriteCore
 - FeyTweaks
 - Forge Config API Port
@@ -49,12 +59,14 @@
 - Inventory Profiles Next
 - Iris Shaders
 - JourneyMap
+- Krypton
 - Ksyxis
 - Language Reload
 - Lighty
 - Lithium
 - Log Cleaner
 - Map Tooltip
+- MapFrontiers
 - Memory Leak Fix
 - Mixin Conflict Helper
 - MixinTrace
@@ -62,32 +74,86 @@
 - Model Gap Fix
 - ModernFix
 - MoreChatHistory
+- Mouse Tweaks
+- NBT Autocomplete
 - No Chat Reports
+- Noisium
 - OptiGUI
+- Pick Up Notifier
 - PipeBlocker
 - Puzzle
+- Puzzles Lib
 - Reese's Sodium Options
 - Remove Reloading Screen
+- ReplayMod
 - Resourcify
 - Restore Chat Links
 - Screenshot to Clipboard
 - Searchables
 - Server Pinger Fixer
+- Show Me Your Skin!
+- ShulkerBoxTooltip
 - Skip Transitions
 - Smooth Scrolling Refurbished
 - Sodium
 - Sodium Extra
 - Status Effect Bars
+- Status Effect Timer
+- Stendhal
 - Suggestion Tweaker
 - TCDCommons API
 - ToolTipFix
 - Translucency Fix
 - ViaFabricPlus
 - WTHIT
+- World Preview
 - YetAnotherConfigLib
 - Zoomify
 - [EMF] Entity Model Features
 - bad packets
+- fast-ip-ping
+- item-scroller
 - lazy-language-loader
 - libIPN
+- malilib
+- minihud
 - oωo (owo-lib)
+
+# Disabled Mod List (Due to incompatibility, etc. Will be added back when possible)
+
+- Advancement Plaques
+- AdvancementInfo
+- Amecs
+- AntiGhost
+- Beenfo
+- Better Resource Pack Sorting
+- Block Entity Extended Rendering
+- Borderless Mining
+- CIT Resewn
+- DashLoader
+- Draggable Lists
+- Durability Viewer
+- EMI Loot
+- EMI Trades
+- EMIffect
+- Enhanced Searchability
+- Equipment Compare
+- Exordium
+- FastQuit
+- Iceberg
+- Item Highlighter
+- LambDynamicLights
+- Leave My Bars Alone
+- LiLaC
+- MaLiLib
+- Merchant Markers
+- MiniHUD
+- More Culling
+- Mouse Wheelie
+- NBT Tooltip
+- Neat
+- Raised
+- Recipe Book is Pain
+- ThreadTweak
+- Title Fixer
+- Ugly Scoreboard Fix
