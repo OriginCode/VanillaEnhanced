@@ -1,7 +1,7 @@
 name = "malilib"
-filename = "malilib-fabric-1.21-0.19.999-sakura.6.jar"
+filename = "malilib-fabric-1.21-0.19.999-sakura.8.jar"
 
 [download]
-url = "https://github.com/sakura-ryoko/malilib/releases/download/1.21-sakura.6/malilib-fabric-1.21-0.19.999-sakura.6.jar"
+url = "https://github.com/sakura-ryoko/malilib/releases/download/1.21-sakura.8/malilib-fabric-1.21-0.19.999-sakura.8.jar"
 hash-format = "sha256"
-hash = "9a310d2c40a99f7adf5d8cf3bf045b6d1a77851226c798d74f5569e31de0a83d"
+hash = "4c035f9533c6c5b666bc276d8b85b928b831ba786b0a11d7fc9fcf06bb106df7"
