@@ -1,12 +1,14 @@
 # Mod List
 
 - 3D Skin Layers
+- AdvancementInfo Reloaded
 - Animatica
 - AppleSkin
 - Architectury API
 - Auth Me
 - BadOptimizations
 - Balm
+- Beehive Tooltip
 - Better Command Block UI
 - Better Highlighting
 - Better Mount HUD
@@ -49,6 +51,7 @@
 - FabricSkyboxes
 - Fabrishot
 - Fadeless
+- FastQuit
 - FerriteCore
 - FeyTweaks
 - Forge Config API Port
@@ -73,6 +76,7 @@
 - Mod Menu
 - Model Gap Fix
 - ModernFix
+- More Culling
 - MoreChatHistory
 - Mouse Tweaks
 - NBT Autocomplete
@@ -88,6 +92,7 @@
 - ReplayMod
 - Resourcify
 - Restore Chat Links
+- Scoreboard Helper
 - Screenshot to Clipboard
 - Searchables
 - Server Pinger Fixer
@@ -102,6 +107,7 @@
 - Stendhal
 - Suggestion Tweaker
 - TCDCommons API
+- Title Fixer
 - ToolTipFix
 - Translucency Fix
 - ViaFabricPlus
@@ -118,42 +124,31 @@
 - malilib
 - minihud
 - oωo (owo-lib)
+- too-many-shortcuts
 
 # Disabled Mod List (Due to incompatibility, etc. Will be added back when possible)
 
 - Advancement Plaques
-- AdvancementInfo
 - Amecs
 - AntiGhost
-- Beenfo
 - Better Resource Pack Sorting
 - Block Entity Extended Rendering
-- Borderless Mining
 - CIT Resewn
 - DashLoader
 - Draggable Lists
-- Durability Viewer
 - EMI Loot
 - EMI Trades
 - EMIffect
 - Enhanced Searchability
 - Equipment Compare
 - Exordium
-- FastQuit
 - Iceberg
 - Item Highlighter
 - LambDynamicLights
-- Leave My Bars Alone
-- LiLaC
-- MaLiLib
 - Merchant Markers
-- MiniHUD
-- More Culling
 - Mouse Wheelie
 - NBT Tooltip
 - Neat
 - Raised
 - Recipe Book is Pain
 - ThreadTweak
-- Title Fixer
-- Ugly Scoreboard Fix

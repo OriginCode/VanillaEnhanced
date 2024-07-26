@@ -1,0 +1,13 @@
+name = "too-many-shortcuts"
+filename = "too-many-shortcuts-0.0.4+mc.1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LH6juGaI/versions/YBFUEBaw/too-many-shortcuts-0.0.4%2Bmc.1.21.jar"
+hash-format = "sha1"
+hash = "3bea91849ed40796a35d445d2ff1852a87256979"
+
+[update]
+[update.modrinth]
+mod-id = "LH6juGaI"
+version = "YBFUEBaw"
