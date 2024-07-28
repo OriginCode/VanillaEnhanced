@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "867b8bf4d6db1eaac9a4c1e5b94863094ad609a5483e67a3c72986aeafaa760a"
+hash = "ac672dd8b4cb969b5ba56b27ef70d2129fb40f5f52ec674625a7823bc67988a1"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "f9ad6ec2c058b797ab33008ff672411dd5c1b0d9114def2f4d2fafa493dd6ae1"
+hash = "702034dbed70640cc6a634dd2387264aa5beb77fceecc918a4ad68acbdd52cf1"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
+hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
 
 [[files]]
