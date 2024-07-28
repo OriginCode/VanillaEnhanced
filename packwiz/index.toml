@@ -366,11 +366,6 @@ hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
 metafile = true
 
 [[files]]
-file = "mods/lazy-language-loader.pw.toml"
-hash = "2dbfbcf3d122fa6f771b8bb49cfbd230b4374028336bb842070b851812ec26c7"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "4ba4a6bfb2a8a35f378cfff1ea81a46d08ee1c3ab344be34cb792aa0e5418ed2"
 metafile = true
