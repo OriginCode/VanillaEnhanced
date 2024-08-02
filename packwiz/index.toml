@@ -26,8 +26,13 @@ hash = "6e4a1ad878793ab3c3b7df30ea8e4177a65c3632d1b35277683d6f6b333cb073"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "e59f64ae85ae484c3a00d21017ea24f50f3068f63f820dbcde93143eb92d0f4b"
+metafile = true
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
-hash = "92e4bff606befa1dc14ee5334f2530ff9af709df3547937be906583150382e30"
+hash = "dd070c324d03f2942546105c622ee83cdb4f7b78379cc49bf6e9185400636d3d"
 metafile = true
 
 [[files]]
@@ -37,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
+hash = "af482cdaf7c5d9d5481e7cd789d98ebc17f47e4565a28af6c6365aef896d1404"
 metafile = true
 
 [[files]]
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7ed2158d2715c74dc93716079c029524ffc36680358d0a79757ab1052a04af6c"
+hash = "e5d13ac5dd882ae1fc805f9ace675ed260f1c311adb0a961148c9feece5cd6c6"
 metafile = true
 
 [[files]]
@@ -167,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "314cd3d09bb98a39542551090e3daefd5fa3cfc184bcd134cf4c8a820e804281"
+hash = "4a9f9c1bc8b5cd47f2e7e243af68e697f7c5803d19e47b2c519653f83f6cb905"
 metafile = true
 
 [[files]]
@@ -212,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "471ae9c39007497d4c1d3f3f1a85334593ca9fdfb6521093e6faa2c01b74f624"
+hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
 metafile = true
 
 [[files]]
@@ -261,8 +266,13 @@ hash = "bd026bd6a8e0b7bd8dc6802c733d09775eead2ad40c8f243917facfcd2e33e29"
 metafile = true
 
 [[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "fcc29f75675fc7a727778a0d1400544084d26ff560a691d56ff66138121485ce"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
+hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
 metafile = true
 
 [[files]]
@@ -282,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fadeless.pw.toml"
-hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
+hash = "3452c0877052a563c9357a17977b3466b010772010145af5ef0f1b60f31400a8"
 metafile = true
 
 [[files]]
@@ -307,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "7915c02a4b5e846b8d0390857078e6d9fce8980b62416fb314fafee4ef8345d0"
+hash = "d35ab379600ac244aaf1d38c81e3e54126599159188edc9bb4ba2198ebbf19bb"
 metafile = true
 
 [[files]]
@@ -318,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "3d11f813bb93d0dada53443ea60291da449f7a35b5f4dfe9d8859f761d95fbba"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "4bfe78f29b033e43cf3172344c2d8c8f140c4fb12d7059f9b0f8a528b2e89b0f"
 metafile = true
 
 [[files]]
@@ -332,12 +347,17 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "664b83356f5ca10ab286db442854032fa4f9d912d54b5f63452468a380335e8e"
+hash = "107ccada729331cde39b901432e7cd572dc21431c34049e86c4bfb1473b2897a"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "da34bd17c800da836fd18748ab780668278d4ecf90fb45a2f6b41c78d7d55641"
 metafile = true
 
 [[files]]
@@ -367,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "4ba4a6bfb2a8a35f378cfff1ea81a46d08ee1c3ab344be34cb792aa0e5418ed2"
+hash = "87d16fb355306f86a437eaeb3b3674ec7b56f72ac90ee71300772f4920fe1b10"
 metafile = true
 
 [[files]]
@@ -406,8 +426,13 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/merchant-markers.pw.toml"
+hash = "517189843d31fb0a2831eaecdf415b9c7c8c6c3f23956d92d9d1c7cc9dea6697"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
-hash = "7aa0633ed3d647d27f91c5aae9e833df5021091caf3ed7da6973a5988ee851e3"
+hash = "c918d4f361ee2b07f72f61204458c6603b4d63a49c3cd8f39e9b2bd02b960f0d"
 metafile = true
 
 [[files]]
@@ -472,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "2205e3bc9e060ed011eb6252b27973d8184b7d54d8240cb92baf7196f3bf7eab"
+hash = "349f5aa9192539c3ce0d2c962ae05a2b4d75a75635c5e28c3f718fda72c79b71"
 metafile = true
 
 [[files]]
@@ -493,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8d5faf87042e588f604e54a0e8dc1b269a4d1120b1c9570b2837f290f38a715b"
+metafile = true
+
+[[files]]
+file = "mods/rbip.pw.toml"
+hash = "11b3241572b51df22bcbe77e896d12f8ddace3a7aac0dad6e5705f387572edfb"
 metafile = true
 
 [[files]]
@@ -517,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "6d7d1e314add75dbdae15536501766f27fbcfab1b1546fe131aa90db5e3795b6"
+hash = "5ec29149570fdae5f3a94c1a2d9a9798fa289b32043504a5d50540ed39b81d17"
 metafile = true
 
 [[files]]
@@ -593,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "9ce0d6322b997a5ab5dd2bd66f9491e0baf714b35f42d67adfecc75b9620af08"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "537ce9a516eaadc60b7498677f30ab1e2fe857a25a36e247f9cd11c565cd895a"
 metafile = true
 
 [[files]]

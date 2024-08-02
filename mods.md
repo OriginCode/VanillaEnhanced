@@ -1,6 +1,7 @@
 # Mod List
 
 - 3D Skin Layers
+- Advancement Plaques
 - AdvancementInfo Reloaded
 - Animatica
 - AppleSkin
@@ -46,6 +47,7 @@
 - Enhanced Block Entities
 - Entity Texture Features
 - EntityCulling
+- Equipment Compare
 - Fabric API
 - Fabric Language Kotlin
 - FabricSkyboxes
@@ -57,10 +59,12 @@
 - Forge Config API Port
 - Gamma Utils
 - Held Item Info
+- Iceberg
 - ImmediatelyFast
 - Indium
 - Inventory Profiles Next
 - Iris Shaders
+- Item Highlighter
 - JourneyMap
 - Krypton
 - Ksyxis
@@ -68,9 +72,11 @@
 - Lighty
 - Lithium
 - Log Cleaner
+- MaLiLib
 - Map Tooltip
 - MapFrontiers
 - Memory Leak Fix
+- Merchant Markers
 - Mixin Conflict Helper
 - MixinTrace
 - Mod Menu
@@ -119,16 +125,13 @@
 - bad packets
 - fast-ip-ping
 - item-scroller
-- lazy-language-loader
 - libIPN
-- malilib
 - minihud
 - oωo (owo-lib)
 - too-many-shortcuts
 
 # Disabled Mod List (Due to incompatibility, etc. Will be added back when possible)
 
-- Advancement Plaques
 - Amecs
 - AntiGhost
 - Better Resource Pack Sorting
@@ -140,12 +143,8 @@
 - EMI Trades
 - EMIffect
 - Enhanced Searchability
-- Equipment Compare
 - Exordium
-- Iceberg
-- Item Highlighter
 - LambDynamicLights
-- Merchant Markers
 - Mouse Wheelie
 - NBT Tooltip
 - Neat

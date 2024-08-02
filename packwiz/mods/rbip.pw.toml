@@ -1,0 +1,13 @@
+name = "Recipe Book is Pain"
+filename = "recipe_book_is_pain-0.11.2-1.21-build.42.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/etNS9OnA/versions/ddMD82FT/recipe_book_is_pain-0.11.2-1.21-build.42.jar"
+hash-format = "sha1"
+hash = "ecdbd7779b52846044c1f823eb820cfe5f054b7b"
+
+[update]
+[update.modrinth]
+mod-id = "etNS9OnA"
+version = "ddMD82FT"
