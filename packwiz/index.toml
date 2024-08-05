@@ -5,6 +5,10 @@ file = "config/betterf3.json"
 hash = "93520713ed82d6b681e9d9502f2905aa8445b790548d467a47a192270537c913"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "16ddf5d1129f3819686b012996753f0a02062cedbee4e2a2e69c936dd124b4a3"
+
+[[files]]
 file = "config/minihud.json"
 hash = "a4cc0dee81dbe3258ea8da98e7355aac35fc52a8fb643edf21703c8d3e8b3904"
 
@@ -73,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/beehivetooltip.pw.toml"
 hash = "acfff1479e145347a5b112608761c83fcdae5534455f060df26e42d62e7d6579"
+metafile = true
+
+[[files]]
+file = "mods/beer.pw.toml"
+hash = "8cd94531403618e994548c9adcb8f4f195ee58705ee43b51709e8378d74ddf93"
 metafile = true
 
 [[files]]
@@ -272,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+hash = "c8215a5e6f35175c0c3d764284026b94a8159207319299081459f6aeb05b4191"
 metafile = true
 
 [[files]]
@@ -347,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "107ccada729331cde39b901432e7cd572dc21431c34049e86c4bfb1473b2897a"
+hash = "fea164dda1332d54afd1365311ba0a548fb11a475a6490026a1f00a7aa70400d"
 metafile = true
 
 [[files]]
@@ -432,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "c918d4f361ee2b07f72f61204458c6603b4d63a49c3cd8f39e9b2bd02b960f0d"
+hash = "e22e435da08b6087c4418a749583eea7185ad8c4e0eb82f9c60b3472332f9b47"
 metafile = true
 
 [[files]]
@@ -481,6 +490,11 @@ hash = "207aee1f03c198f046ec6a3c29b6765730a550e9bffb6574c9dbbd0c610033ca"
 metafile = true
 
 [[files]]
+file = "mods/nbttooltip.pw.toml"
+hash = "8ff49e8b10ad5aaa78a1c32666621fa7cc03e2722fea8eab36efe2dee0d7b744"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
@@ -521,6 +535,11 @@ hash = "8d5faf87042e588f604e54a0e8dc1b269a4d1120b1c9570b2837f290f38a715b"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "ff02d2157942f9e3eaf7e712dc8a12012924cb227a2c260642aadc128249be49"
+metafile = true
+
+[[files]]
 file = "mods/rbip.pw.toml"
 hash = "11b3241572b51df22bcbe77e896d12f8ddace3a7aac0dad6e5705f387572edfb"
 metafile = true
@@ -557,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
+hash = "c803d271faae47b193e3ba9ca611894252bf55d4c6aab303f56bcf6b183056c7"
 metafile = true
 
 [[files]]
@@ -662,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "90ecd66066f1991fb96ba4b3f4fc18d36ef1b6de7875e270d768de957158f735"
+hash = "394ae6dd9073824e8f8ca8af48392bead324aa0b1e613962adff8c36c634ac9f"
 metafile = true
 
 [[files]]
