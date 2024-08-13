@@ -1,0 +1,13 @@
+name = "AntiGhost FORK"
+filename = "antighost-1.21-fabric0.100.4-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CFbmoKik/versions/40COR1YH/antighost-1.21-fabric0.100.4-1.2.0.jar"
+hash-format = "sha1"
+hash = "697c2d4dfbb3ddfad82f157212c26c8a7e378fce"
+
+[update]
+[update.modrinth]
+mod-id = "CFbmoKik"
+version = "40COR1YH"
