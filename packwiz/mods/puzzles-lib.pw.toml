@@ -1,13 +1,13 @@
 name = "Puzzles Lib"
-filename = "PuzzlesLib-v21.0.20-1.21-Fabric.jar"
+filename = "PuzzlesLib-v21.0.22-1.21-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QAGBst4M/versions/YSIFLimp/PuzzlesLib-v21.0.20-1.21-Fabric.jar"
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/Rzc9NmZd/PuzzlesLib-v21.0.22-1.21-Fabric.jar"
 hash-format = "sha1"
-hash = "07a6e6cd4e54c136a3d341c8daa388de36765883"
+hash = "14640d5b3acc2b28cca17f2278b6e652f17291a2"
 
 [update]
 [update.modrinth]
 mod-id = "QAGBst4M"
-version = "YSIFLimp"
+version = "Rzc9NmZd"
