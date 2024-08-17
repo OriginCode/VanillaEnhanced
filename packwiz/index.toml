@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "34f954f451e5c33c7b5db0966770694dad3b5ccacae30f2ef4dee624f95e12b5"
+hash = "90c02ad9c9a5d845453c8a27e33a8c37c7b308c8298c862eaa1c448ef532937a"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "860f349f22b4ae5c8765b78a961702aeaf70f5630110422f122666b3bead2437"
+hash = "281e2d541c2ab54e3bc6f0e5973205a3cf12074afeea89721a61b72192fe0d2b"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "815ddff3eed8fa1a0b1babc437019c55aeb9d090e3055cf02504038f835543e9"
+hash = "d524e6e1696ecdbb5282106c9a5fa6fc4f4630bc2c3ba78a9fc023ec455a9199"
 metafile = true
 
 [[files]]
@@ -335,11 +335,6 @@ hash = "5b9d1206762db461d254c9abc94986cf4a63fc3abaa217ae14179630f83a05e8"
 metafile = true
 
 [[files]]
-file = "mods/health-indicator-txf.pw.toml"
-hash = "b4dcc6f72c3c384f6d0636af6fd686b0db33349bcac402a3c9983691c877f693"
-metafile = true
-
-[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "3d11f813bb93d0dada53443ea60291da449f7a35b5f4dfe9d8859f761d95fbba"
 metafile = true
@@ -376,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "6b17d39e1c6e9f9caac37158a80321a197ce540353830adaeb7868b8bbc39db4"
+hash = "32cd1ffb2d57f8518c0535a0fded59655be8582b45955ebfe6a9e6c14e61e7d9"
 metafile = true
 
 [[files]]
@@ -497,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/nbttooltip.pw.toml"
 hash = "8ff49e8b10ad5aaa78a1c32666621fa7cc03e2722fea8eab36efe2dee0d7b744"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "21453983ac98e04fb6db93ea2b2517c231e0df3a224423dd8cf97c885d23a301"
 metafile = true
 
 [[files]]
