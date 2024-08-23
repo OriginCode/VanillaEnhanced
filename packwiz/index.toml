@@ -555,11 +555,6 @@ hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "c99ea25a5698ba5d286cc5df09d10fb5737f955981776694519a5ccd43119f58"
-metafile = true
-
-[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "94a04d1f3e30ce411ae630d33fe386eaeedf4153b3f6b5985c2774b111455278"
 metafile = true
