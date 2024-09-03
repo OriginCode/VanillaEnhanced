@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "2708aee80070eaae6f647a9b321a24d9cb7d3e188b02a145b4bc818180d04e95"
+hash = "77cba89986eae4a5a2d693a2e169cd91338127f625663bc26741094a75616bbb"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
-hash = "0d1c2ae16cf9f53cbe868ca0c8444618d7f5ddc6ececef3db21bd27d354c263d"
+hash = "d69de5e020139a28ca7b7256ad6f1d598ba09a1b6b051e326fc28261cf4f12b7"
 metafile = true
 
 [[files]]
@@ -245,6 +245,16 @@ hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "c9cd3966addff16974b3cda47751ebc67358eb1fb23ef8c8f497b18b6c744441"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "faa84ad41ff32696d340c7967ae03236b827a09844ae3e0365cef445ea015941"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "6b0efa6d411faf50dedc9326b9991eea204455e5f39c35a41b8dd3a7513f543c"
 metafile = true
@@ -261,17 +271,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e8cf1bd4eb13233ca3d3bcef35a78976552c89b52d56ece96c5179b1c0188473"
+hash = "61a89e0ee11bfaf7c910f20ca70a62c12c185d85b95a9459af8ab80771922aa9"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ece987f3292dd21e15fc9395f82d58709de782967820efca540052ddf16c3894"
+hash = "1da1feec86e5d7cbc5a9a0fab7a625e1fffb3847e14732481b83566d62b910b9"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3467f0652adfc2f20ec3215057e09a05cecbc962ecd76ffb5f7514ad023a6574"
+hash = "7fb9ddfaa3daf99294cc4262d292392b955d942a50d38a82cc6b75b2f21698c2"
 metafile = true
 
 [[files]]
@@ -330,6 +340,11 @@ hash = "dded62ce10d426f4948edb2561bf8c7500c73376708312ae49c118447195d50f"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "ba59e9b4c7cc30852ed1d1a5a4b14465f552921e54c440233d44a0d12c17567e"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "c209c813ff6affa347313339f0c0d379b3afa1e6684bbe4fc02597fe4a189291"
 metafile = true
@@ -346,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3f8f7b594419ea4fefa330c82fee1be6d904390b3a6bb40e52aeb8e7b9009c82"
+hash = "ae42dc97752bf2031b0fb77994ab04e51e5569a637f2f9ee6a98937053b0d290"
 metafile = true
 
 [[files]]
@@ -376,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7e9bd0ba2fb2a8f9862d56704b35cddf0983cb178c218c3e471fc2afa7ed35e6"
+hash = "cf2ec1e976e526d75f8c5daf6b5bff65f8974e3907e390ea2d809d2d3ba9d938"
 metafile = true
 
 [[files]]
@@ -426,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
-hash = "89136e04de7ae6e344514388432061110d15125def8a21f83f7876b9fd9466e3"
+hash = "9b1a03e92beba456a88fa745df185c76baf78b00190cfe64704c910b75bf2ca2"
 metafile = true
 
 [[files]]
@@ -556,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "94a04d1f3e30ce411ae630d33fe386eaeedf4153b3f6b5985c2774b111455278"
+hash = "078e1b39b6bcf173c3342f2788a865e1fc4bb53c8ccb094e55d5672a8d8b0295"
 metafile = true
 
 [[files]]
@@ -676,12 +691,12 @@ metafile = true
 
 [[files]]
 file = "mods/world-preview.pw.toml"
-hash = "f6a7303742ea4f851f8bea66427fc85058bc2dc8a1bd79699bb2caf1061ff56a"
+hash = "b1f1d630a64c3472a5bec1bd69ce764d93838a38350d3fa1b8b87be17a92b6fe"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "648b0711e44e12b60ee1c32705bcc9e9a5eb90b9cb9e874a1f518f2c2dd6c1a9"
+hash = "e01bf177b091c990585f098b48ead07fa9000662de1874c3a79e4a979b8c7639"
 metafile = true
 
 [[files]]
