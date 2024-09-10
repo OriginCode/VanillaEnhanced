@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "c8af4c8bd0a07e4eef4d9c2ad3756b2ca2f8d9ed84e76608626096a9309341dc"
+hash = "22088c217efb693dda427943b27f5dcc14dfe01e43cfbf6a56621be403a48c01"
 metafile = true
 
 [[files]]
@@ -165,6 +165,11 @@ hash = "8c3342aeba36b5ff34c10f0ad6c13bbeb7ea4f040683aba80e83776697ceda0d"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "4349683af0ac961b433c4c61fb200055057e578ca2d9c399db86787a9cc3d481"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
 metafile = true
@@ -201,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcch.pw.toml"
-hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
+hash = "0e1980f8fddb9f78de5b3120e70b795317bc4abfab7f5c0e6d89254af082b069"
 metafile = true
 
 [[files]]
@@ -271,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "61a89e0ee11bfaf7c910f20ca70a62c12c185d85b95a9459af8ab80771922aa9"
+hash = "be24167abe64f5bcf37e08bf93065e0800aa16b9ff170efb75c1e8c38e2a93a4"
 metafile = true
 
 [[files]]
@@ -281,12 +286,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "7fb9ddfaa3daf99294cc4262d292392b955d942a50d38a82cc6b75b2f21698c2"
+hash = "9e0bd3a3c417f808319accedffc8ffa475befae97312b1bf132f2b550e3b4f0f"
 metafile = true
 
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "fcc29f75675fc7a727778a0d1400544084d26ff560a691d56ff66138121485ce"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "9e4495c056d7ad01a71fd096e0970b2e76f389539f368c0a935adbef7b173489"
 metafile = true
 
 [[files]]
@@ -341,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ba59e9b4c7cc30852ed1d1a5a4b14465f552921e54c440233d44a0d12c17567e"
+hash = "80ecd6da3ec4316f3bc7da8690d8ed572946e3a85ec1640371b6f97a19b60dbd"
 metafile = true
 
 [[files]]
@@ -356,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "553042003e4b75d8203669d52597694c77c24f303de44bfb8a5d3549998d4465"
+hash = "efe06813fe441aea264cb4f0c6eba71f3c597f04ff0fd8921f467d76e40d5afd"
 metafile = true
 
 [[files]]
@@ -391,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "cf2ec1e976e526d75f8c5daf6b5bff65f8974e3907e390ea2d809d2d3ba9d938"
+hash = "aad1007acfe8ebd83ab2b4b95d15ae118c8704b0849ae11e35a9a6a3eb35d9e1"
 metafile = true
 
 [[files]]
@@ -531,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "349f5aa9192539c3ce0d2c962ae05a2b4d75a75635c5e28c3f718fda72c79b71"
+hash = "dc3aff994dec568716795ca2389336affaada5495e574c8193beee1555a77110"
 metafile = true
 
 [[files]]
@@ -546,12 +556,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "b36d95833b8ec416f259a52e367f9e31e5f2b770be844f08abec6553335205c2"
+hash = "bd8bce6d875a0cdb5a793202a9da9d715164bc9c88ee144aa4bf9b44fec0aa56"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "48742bf742f133cbd890a7800e916aa39c6058552a33fa6c2115986084e82aed"
+hash = "e256b952df1dfd9ba362ca7d7d176dd29434cb6721f14ee5c99995df94490465"
 metafile = true
 
 [[files]]
