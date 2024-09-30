@@ -62,7 +62,7 @@
 (require racket/cmdline)
 
 (define working-directory (make-parameter "./disabled_mods"))
-(define target-version (make-parameter "1.21"))
+(define target-version (make-parameter "1.21.1"))
 (define loader-name (make-parameter "fabric"))
 (define workers-num (make-parameter 16))
 
