@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
-hash = "b73f1d21ea236e9ec876d0f3c91d31ce5fc6c8fa3fb62e01258ef53242f388cb"
+hash = "b8b63cf670c8432bc1ed95fd5f4a62d8cd192f7b6c1c2951fc3f961eb66d185d"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "77cba89986eae4a5a2d693a2e169cd91338127f625663bc26741094a75616bbb"
+hash = "966f995d81b792ae424ece87b1c1697bd976616f3580e4bb3f6c328de836b7e2"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3c2696f296a9b195b68c4873fbe3ba07e049dcd5ccd459cc43ab5b86d1da4541"
+hash = "e20ee018464c32627cb3167dac6adf5649c096c943e5ce8aa13cd379135661db"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "147d49f6d81eb9b09a097d2af85b8c8bf3a348743dc075bcc52faf3b4e800123"
+hash = "53ee326e24bd8d6c2f1f6b4aa1f5256c0821fe0b9793d800e7e45d0f4c8a019c"
 metafile = true
 
 [[files]]
@@ -246,12 +246,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "fe75cef937ecc3498d62b76831212fdfc557aec87d1d2f2607705e3fa4113d4f"
+hash = "7266655534f680da122b5221d960a1a8326a9d7268b6151b4407c35e32b759e3"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "6504ef1e79736cf0b3f287af087eb24f362fa4d0356773d6cfec9ceafacc1f4a"
+hash = "bafd56ed8177f080da9aec1d2bbc304c70261d930ae427861b2f09371c23fba5"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/fadeless.pw.toml"
-hash = "3452c0877052a563c9357a17977b3466b010772010145af5ef0f1b60f31400a8"
+hash = "4fbd33f58f8270abceabd334bba367a26af6d4187306a9af705d58042f5b693c"
 metafile = true
 
 [[files]]
@@ -331,17 +331,17 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "2a1a9cc37324bc86db0944fe070878dbff660340232c20f84365070fd0cf6307"
+hash = "2645fbb800b5c53e3e8937489dcf036b9c40cfdc3d8674d6231a5f0fd0a7aeff"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "a1f8779daf0bac7d47acd8ae9616e4d8ad620b301950205a09c251ef502e5447"
+hash = "cd6932ba64fd69b55137ab6ab0b8df23165f53335c11c9ac871fa97a6505049f"
 metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "c209c813ff6affa347313339f0c0d379b3afa1e6684bbe4fc02597fe4a189291"
+hash = "cd15db77fb28f4cf47547461cf7d4a207fe86376b682555498c605c8fb4b5364"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "aad1007acfe8ebd83ab2b4b95d15ae118c8704b0849ae11e35a9a6a3eb35d9e1"
+hash = "cc491adadeb1c1645f1f65073d9543eea1914425a17ad8338e61a4de05c00471"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "94caec0b2017c467df06218a28c4d3b9ec4c6a18cbd1775edc06483ed0a909b8"
+hash = "7132e2ef7edaea825203b4cddce49d4c932e373af04906f42b1945add2f1cd1e"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "c2b91ded8ad6d276f49e30162c201895240e1bf68e8bf7051a2e9a8e56c23963"
+hash = "3b9b2bbf3b3f5279f89730b7700a26a2577873eda8a11fb68f9139da2626483e"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "704b6c8e2f88396864d93f20a8fe9e366c768e6549c42e49e1fac8359bd15558"
+hash = "4eddfd88bec80e4ac162588d59cc1549389d0e378e9ddaa5b367c859fd998127"
 metafile = true
 
 [[files]]
@@ -531,12 +531,12 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "adf7d24d151493401d0a082d86c36d04829727a696a3302c93f5026c19faa4cc"
+hash = "87d3d8e6a291e84a33a639c5a5b12615e4b24fb0d0d70ae3a53c8ac95d644b8a"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "705b12953afb39daf0def61796eb3e59e562c3781d0b6283db0e5ffd85464036"
+hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "46cdfbb611e2f0eec6a3c5420a88dc5b516c8a544597408c9b3d668ebf10f932"
+hash = "138929792a63cb1ab3794f91703149555a9ca94bb64011b8f0db62f8b55d9bea"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/restore-chat-links.pw.toml"
-hash = "8160d85daf2d654ccb1e9e7fbed96b54392b094e29f87e419cc7141449b9fca8"
+hash = "527be11d3c0b5935b5c707a70c63be9d549a318fb36ec5d787038f40cdcf4545"
 metafile = true
 
 [[files]]
