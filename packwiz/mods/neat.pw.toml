@@ -1,13 +1,13 @@
 name = "Neat"
-filename = "Neat-1.21-39-FABRIC.jar"
+filename = "Neat-1.21-40-FABRIC.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ins7SzzR/versions/i4sG5Si1/Neat-1.21-39-FABRIC.jar"
+url = "https://cdn.modrinth.com/data/Ins7SzzR/versions/aCuUOT50/Neat-1.21-40-FABRIC.jar"
 hash-format = "sha1"
-hash = "a3f797bc8afbdd607f806e6e2161d4018d5e0af0"
+hash = "3f792d93a2832ab838d81b4890c8db42f7c6b25c"
 
 [update]
 [update.modrinth]
 mod-id = "Ins7SzzR"
-version = "i4sG5Si1"
+version = "aCuUOT50"
