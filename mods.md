@@ -4,12 +4,12 @@
 - Advancement Plaques
 - AdvancementInfo Reloaded
 - Animatica
+- Anvian's Lib
 - AppleSkin
 - Architectury API
 - Auth Me
 - BadOptimizations
 - Balm
-- Beehive Tooltip
 - Better Command Block UI
 - Better Highlighting
 - Better Mount HUD
@@ -17,9 +17,11 @@
 - Better Recipe Book
 - Better Statistics Screen
 - BetterF3
+- Block Entity Extended Rendering
 - Block Meter
 - Blur (Fabric)
 - CICADA
+- CIT Resewn
 - CalcMod
 - Capes
 - Chat Heads
@@ -37,10 +39,13 @@
 - Debugify
 - Detail Armor Bar
 - Don't Clear Chat History
+- Draggable Lists
 - Durability101
 - Dynamic Crosshair
 - Dynamic FPS
 - EMI
+- EMI Enchanting
+- EMI Loot
 - EasierVillagerTrading
 - Emoji Type
 - Enhanced Attack Indicator
@@ -57,6 +62,7 @@
 - FerriteCore
 - FeyTweaks
 - Forge Config API Port
+- Fzzy Config
 - Gamma Utils
 - Held Item Info
 - Iceberg
@@ -65,9 +71,11 @@
 - Inventory Profiles Next
 - Iris Shaders
 - Item Highlighter
+- Item Scroller
 - JourneyMap
 - Krypton
 - Ksyxis
+- LambDynamicLights
 - Language Reload
 - Lighty
 - Lithium
@@ -75,27 +83,32 @@
 - MaLiLib
 - Map Tooltip
 - MapFrontiers
-- Memory Leak Fix
 - Merchant Markers
+- MiniHUD
 - Mixin Conflict Helper
 - MixinTrace
 - Mod Menu
 - Model Gap Fix
 - ModernFix
 - More Culling
+- MoreBeeInfo
 - MoreChatHistory
 - Mouse Tweaks
 - NBT Autocomplete
+- NBT Tooltip
+- Neat
 - No Chat Reports
 - Noisium
+- ObsidianUI
 - OptiGUI
 - Pick Up Notifier
 - PipeBlocker
 - Puzzle
 - Puzzles Lib
+- Raised
+- Recipe Book is Pain
 - Reese's Sodium Options
 - Remove Reloading Screen
-- ReplayMod
 - Resourcify
 - Restore Chat Links
 - Scoreboard Helper
@@ -113,6 +126,7 @@
 - Stendhal
 - Suggestion Tweaker
 - TCDCommons API
+- ThreadTweak
 - Title Fixer
 - ToolTipFix
 - Translucency Fix
@@ -124,30 +138,15 @@
 - [EMF] Entity Model Features
 - bad packets
 - fast-ip-ping
-- item-scroller
 - libIPN
-- minihud
 - oωo (owo-lib)
 - too-many-shortcuts
 
 # Disabled Mod List (Due to incompatibility, etc. Will be added back when possible)
 
-- Amecs
-- AntiGhost
-- Better Resource Pack Sorting
-- Block Entity Extended Rendering
-- CIT Resewn
+- AntiGhost FORK
 - DashLoader
-- Draggable Lists
-- EMI Loot
 - EMI Trades
 - EMIffect
-- Enhanced Searchability
 - Exordium
-- LambDynamicLights
 - Mouse Wheelie
-- NBT Tooltip
-- Neat
-- Raised
-- Recipe Book is Pain
-- ThreadTweak
