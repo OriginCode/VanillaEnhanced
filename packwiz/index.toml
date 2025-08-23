@@ -26,7 +26,7 @@ hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a8a66453b1723d1daf27b49a9902a32a1fea0335dd49862be2be70777c5ecfc3"
+hash = "3c4f1558a94121e7fe573ad4ad05c2fe44ccf78cbb89bb766a74985188207cdc"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
+hash = "be29598337af357cd80b5a60d4eb1e06ff50008fe8d9ca0b52d1279be96a785a"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "93a630545090420997588464bd281ae7b38a3eff80e203fbd065b548407748a1"
+hash = "c390e2533e854690085d2a455d192e22817532f8e1400f498f4312ee5dfdda50"
 metafile = true
 
 [[files]]
@@ -230,6 +230,11 @@ hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
 
 [[files]]
+file = "mods/durability-viewer-updated.pw.toml"
+hash = "3f931d9ea25b7b74bc9325e211e3f9da9b7121f749865ff1dd328073b55fd272"
+metafile = true
+
+[[files]]
 file = "mods/durability101.pw.toml"
 hash = "3f881d97f85d3bac7f09d4818d3ce2fe51e11096cd397323b52ff84e3fe18270"
 metafile = true
@@ -276,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
-hash = "be0b379668b24e4a0e6c2d9867605b8122ed4fc97cb42ed493782b0d7c72c028"
+hash = "c4db059d45610ed3022c0167eb3221ab580fad60fe7425c51ea05f71017b00ed"
 metafile = true
 
 [[files]]
@@ -301,12 +306,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
+hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
@@ -411,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
+hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
 metafile = true
 
 [[files]]
@@ -456,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
-hash = "6d837977f18344fcb7df783e51b35d34ff5f183b0ea5fe580a0e7dcae2db0799"
+hash = "b886d0af9fc374881d6014829446c29969a7a6cf3e9ca55fb269fe5b769a73fb"
 metafile = true
 
 [[files]]
@@ -571,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
+hash = "ea6b2156e703ca65e0cf4a7119e2c4a9ea81018860859dd949cd2832dfa3bf07"
 metafile = true
 
 [[files]]

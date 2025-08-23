@@ -1,0 +1,13 @@
+name = "Durability Viewer Updated"
+filename = "durabilityviewer-1.21-1.11.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WnbN2C6I/versions/YXGYgrwl/durabilityviewer-1.21-1.11.0.jar"
+hash-format = "sha512"
+hash = "82d0d6fe14ef12b0b55f3b27a4cb1f0a2e470e1036a1cabc369387026a0e19d28c480b7286554186803d567f381ac9586915dc3b76557006308dee4042017d00"
+
+[update]
+[update.modrinth]
+mod-id = "WnbN2C6I"
+version = "YXGYgrwl"
