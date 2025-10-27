@@ -1,0 +1,13 @@
+name = "VulkanMod Extra"
+filename = "vulkanmod-extra-0.2.0-beta7+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gglzOxJ8/versions/z5oUAQNn/vulkanmod-extra-0.2.0-beta7%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "abdb53e3b990397da2030d842176acdf8e73fba96837d1ae60b5234e271aba71bb3ee741ecb58df59ebb866bbbdc006c86077864c5c0d506b85e3238328f67be"
+
+[update]
+[update.modrinth]
+mod-id = "gglzOxJ8"
+version = "z5oUAQNn"

@@ -1,13 +1,13 @@
 name = "MoreBeeInfo"
-filename = "MoreBeeInfo-fabric-1.21-1.4.jar"
+filename = "MoreBeeInfo-fabric-1.21-1.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/N2XKPu4u/versions/aKlkX1r2/MoreBeeInfo-fabric-1.21-1.4.jar"
+url = "https://cdn.modrinth.com/data/N2XKPu4u/versions/eFaX0LM4/MoreBeeInfo-fabric-1.21-1.4.1.jar"
 hash-format = "sha512"
-hash = "08dffa6609baa667989c032e9ce719c44b3125f412d9716d07e95dbc18169439a2914ffb3695476a3b8049921ecb7c90a0a081d1beaeb7ea99ede505921e0ce1"
+hash = "9df4f2aa1924bb16a1ffaa311f77efbbbd5c96e7828b323cb966950a03468c06b2f196da92f83f8aa4d317f0a641b14279bfabf98f25091bdcd5285a54e484f1"
 
 [update]
 [update.modrinth]
 mod-id = "N2XKPu4u"
-version = "aKlkX1r2"
+version = "eFaX0LM4"
