@@ -1,12 +1,12 @@
 name = "VanillaEnhanced - VulkanMod"
 author = "OriginCode"
-version = "1.21.1-20260106"
+version = "1.21.1-20260120"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "35cfdc643a86c8af9fd475cd0f6a30f244dc18e71e9beb45b3388b79309ce3b1"
+hash = "37b994a0f57a9761c1480991473077346b89426bb267c1e710c034597d5e99f0"
 
 [versions]
 fabric = "0.18.4"
