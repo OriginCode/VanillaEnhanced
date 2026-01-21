@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "9338d863e3fef014ec630a933c1b6681a339aa6c56b210c449e70e8d31847474"
+hash = "74908bc46dab7b8c0d0e0580ad3d813db54b02adf1d119c7ad13ad7e3086d746"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "a1f1206514a1311c556b5e5542dac4acc1d239c9dc6120efe7b7495245376cfb"
+hash = "90775f67c0e68b6a3e22fdbcd0dc60ae012a3e35769e24401fe94ab33ceb8c00"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
+hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
 metafile = true
 
 [[files]]
@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "0749ba708f88cfac9be94c9d979b2e504dbe66517659beb0935b4ceda52a17df"
+hash = "866f9f0dc37ff27a0aa4185b72f350e93d03e02096f090f22a912ab0cf9cf189"
 metafile = true
 
 [[files]]
@@ -721,17 +721,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "a832f8c085cfdf9cab34b933204467c90185d24593eb8feb38762645e65af1ba"
+hash = "67d366b92b51d52741c271e7d74750c50d4bd8f9fef87a8e474482a6fb60508a"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f17a2a5594725109d8ff7fd5a367d15a1e8fbb0bd3981d8cce17ca08818d05d7"
+hash = "a5c83a20ee5694769ff0c6a998cb3a33e5f3a965006f4eec9127db15f1fa2142"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fb09f6357ae2e3dcfea36520efde6e9b761efffc63b4dfdec5e4b11011bac58c"
+hash = "2709ce9505c0a00b9406f83eb4bc158f5cad773b96fc3826c88dca45d65876cd"
 metafile = true
 
 [[files]]
